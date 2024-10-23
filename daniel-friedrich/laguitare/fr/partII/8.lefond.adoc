@@ -1,0 +1,310 @@
+== Le Fond - Les Éclisses
+
+=== Considérations Générales
+
+On peut constater que le poids général de l'instrument a une influence sur sa
+sonorité. Quand la guitare est lourde, le bruit d'attaque de la corde (causé par
+le frottement du doigt) est moins perceptible que sur une guitare très légère. Le
+son naît différemment, avec un bruit mat très atténué, et semble plus
+cristallin. Le phrasé du guitariste en devient plus précis dans les traits
+rapides.
+
+L'instrument plus lourd possède un son plus long en règle générale et sa
+réponse est meilleure dans les registres aigus, l'ensemble est plus brillant.
+
+Pour arriver à cette fin, les luthiers contemporains ont utilisé des bois lourds ou
+donné plus d'épaisseur aux pièces constituant leurs instruments.
+
+Si Jean Voboam en 1706 utilise déjà un bois très exotique du type "bois de Violette" 
+très fin et dense, c'est à notre sens par-souci décoratif, mais à la fin du dix-huitième 
+siècle quand Pages en Andalousie emploie du palissandre pour ses fonds on peut penser 
+qu'il a fait quelques observations concernant la sonorité.
+
+Peu à peu ce bois sera reconnu comme donnant les meilleurs résultats et il faut
+noter que toutes les tentatives pour en utiliser un autre ont été abandonnées
+invariablement. Antonio de Torres a essayé souvent l'érable au siècle dernier,
+Francisco Simplicio aimait beaucoup l'acajou de Cuba dans le premier tiers de ce
+siècle, Ignacio Fleta plus récemment fit une guitare en Erable onde vers 1958;
+et nous avons essayé personnellement  l'Amarante, le Citronnier de Ceyian, le
+Cyprès, l'Acajou de Cuba.
+
+Qu'il soit palissandre des Indes, de Madagascar, du Brésil, ce bois confère à la
+guitare une voix noble, bien timbrée, corsée, pleine et lui donne sa qualité, sa
+personnalité de guitare classique.
+
+Ces guitares sont beaucoup plus lourdes actuellement que voici quinze ans, environ de 
+1650 grammes à 1850 grammes. Les guitaristes très marqués par les conceptions légères 
+d'Antonio de Torres, Manuel Ramirez, Francisco Simplicio ont eu beaucoup de mal à 
+reconnaître les qualités d'un instrument plus lourd.
+
+Celui ci a été rejeté et on lui opposait régulièrement la "vieille guitare" sans
+laquelle il n'y avait pas de carrière possible. Cet état d'esprit a complètement
+disparu et les concertistes jouant sur des guitares de plus de dix ans sont
+rares actuellement.
+
+Pour la construction, deux possibilités extrêmes sont à signaler:
+
+1. Faire des éclisses et un fond mince peu barré qui donneront du grave, du moelleux, 
+   des basses fortes, des attaques très audibles, un son court et mat éventuellement 
+   et un peu épais.
+
+2. Ou faire un fond plus épais (au dessus de trois cent grammes), barré plus fortement, 
+   avec des éclisses lourdes et épaisses qui donneront plus de brillant, voir un timbre 
+   métallique, et un son plus long avec des graves modérés.
+
+=== Les Éclisses
+
+Leur rôle n'est pas négligeable puisque leur surface vibrante est sensiblement
+égale à celle du fond. De plus, leur hauteur conditionne le volume de la cavité
+du résonateur qu'est la caisse de la guitare, donnant du "coffre" ou non à
+l'instrument. La fréquence propre des éclisses est élevée du fait de leur
+cintrage.
+
+L'expérience d'Antonio de Torres consistant à réaliser une guitare avec des
+éclisses en carton (guitare conservée au musée du Conservatoire de Barcelone)
+n'a peut être pas été interprété complètement par son auteur qui déclarait,
+parait-il, que "seule la table avait un rôle important et que les éclisses ne
+servaient à rien puisqu'on pouvait les faire en carton l". Il est possible de
+dire que cet instrument sonnait comme une guitare comportant des éclisses en
+#carton plus ou moins dur# conditionnant par là une partie de sa réponse.
+
+=== Le Fond
+
+On peut lui donner trois fonctions définies :
+
+1. Le fond avec son barrage maintient plus ou moins vigoureusement le talon
+   du manche et l'empêche de basculer sous la tension des cordes (40 à 50
+   kilogrammes).
+2. Le fond, qui est barré en travers de trois ou quatre barres de bois, est
+   également un résonateur multiple, doué de résonance pour de nombreuses
+   fréquences.
+3. Le fond est aussi un réflecteur du son dans l'enceinte acoustique constituée
+   par la caisse de l'instrument.
+
+On peut noter que plus il est épais plus ses fréquences propres, ses modes
+vibratoires sont élevés. Il favorise alors naturellement les sons vers les
+aigus.
+
+Plus nombreuses et hautes sont les barres de bois qui le divise en secteurs,
+plus les fréquences élevées peuvent y trouver une résonance également.
+
+=== Résonateur
+
+Ceci se vérifie à l'aide d'un tube en verre creux de 25 centimètres de long (environ) 
+et de 5 à 7 mm de diamètre qui fait office de générateur de fréquences. II suffit de 
+poser verticalement l'extrémité du tube (garni d'une petite cheville de bois) sur le 
+fond de la guitare et de serrer légèrement entre le pouce et deux doigts comme un 
+crayon, le haut du tube. En prenant soin de mouiller préalablement les trois doigts 
+d'un peu d'eau vinaigrée, on fait alors glisser les trois doigts le long du tube d'un 
+mouvement rapide, ce qui en serrant plus ou moins fort produit une excitation de la 
+"plaque vibrante" d'un secteur déterminé du fond et l'émission d'un son particulier, 
+spécifique à ce secteur.
+
+En déplaçant le point de contact du tube, de nombreuses fréquences apparaissent. Si 
+l'expérience est faite sur une guitare munie de ses cordes, chaque son, chaque 
+fréquence suscitée par le tube détermine l'apparition de résonances sympathiques, 
+d'harmoniques élevés produits par les cordes, qui peuvent conduire à penser que le 
+phénomène est réversible et que si l'on met une corde en vibration avec le doigt, le 
+signal produit avec ses harmoniques vont trouver des possibilités d'amplification et 
+de résonance dans les différents secteurs du fond, confirmant celui-ci dans son second 
+rôle de résonateur polyvalent.
+
+Il est facile de mesurer en un point donné du fond l'ampleur de ses vibrations quand 
+on excite une ou l'autre des cordes à vide. Le comparateur au centième de millimètre 
+donne alors des variations qui peuvent être importantes : 2 à 3 centièmes de 
+millimètre pour le mi grave et 4 à 5 centièmes pour le ré - montrant par là les 
+préférences du fond pour certaines fréquences.
+
+=== Réflecteur
+
+Le fond est aussi un réflecteur, un "repoussoir" selon l'expression de 
+certains constructeurs. En effet, l'onde sonore intérieure produite par la table au 
+lâcher de la corde, (une série de compression) va trouver une surface plus ou moins 
+rigide, plus ou moins polie, vernie, sur la partie intérieure du fond et ces trains 
+d'ondes planes vont sortir légèrement amortis ou non par l'ouverture de la rosé qui 
+se comporte dans ce cas comme un haut-parleur placé au milieu de la table, qui 
+concourt à la formation du son global produit par l'instrument qui vibre de toute sa 
+surface par ailleurs footnote:[Il est possible de visualiser ces ondes émises par la rosé en plaçant une euille de papier léger sur la table, qui obture presque complètement l'ouverture . En pinçant une corde basse le papier frémit.].
+
+Quelques luthiers du premier tiers de ce siècle avaient même imaginé de placer un 
+"cornet acoustique" évasé vers l'intérieur, scellé autour de la rosace en dessous de 
+la table. Ce dispositif était sensé "ramasser" toutes les ondes qui se réfléchissaient 
+sur le fond et les diriger plus aisément vers la sortie.
+
+Ce système n'a pas été conservé et il faut croire que l'expérience n'a pas été
+concluante.
+
+=== Remarque
+
+Remarque: La guitare vibre de toutes ses pièces mais elle est surtout directionnelle. 
+Un auditeur placé face à l'instrument entend un son plus fort que celui placé de côté. 
+Nous avons vu que le fond avec sa première barre maintient le talon du manche. Cette 
+partie du fond est amenée à vibrer plus intensément sous l'effet de levier que produit 
+le manche tiré alternativement et selon la fréquence donnée par la corde (en 
+schématisant le phénomène). On peut vérifier ceci facilement en appliquant la main dès 
+que la corde est ébranlée, sur cet endroit, et constater alors la disparition d'un ou 
+plusieurs harmoniques et leur retour si la main est enlevée. Cela d'autant plus que le 
+fond est souple, peu barré et la fréquence de la corde grave.
+
+Ces observations avaient conduit Aguado au siècle dernier à concevoir un dispositif 
+appelé "Tripode" qui permettait de ne pas serrer et appuyer la guitare contre 
+l'instrumentiste et de laisser la guitare vibrer librement (voir couverture).
+
+Le levier que représente le manche avec son talon, produit encore une action directe 
+sur le fond quand il est peu barré et souple ; il tend le fond alternativement sous 
+l'impulsion de la corde qui vibre. À chaque ventre que fait la corde correspond une 
+surtension à ses extrémités qui entraîne une élongation du fond s'il est galbé, qui tend 
+alors à s'aplatir.
+
+Pour une note mi grave, 80 hertz environ, on aura donc cent soixante mouvements de ce 
+genre par seconde qui produiront une vibration à l'octave au-dessus du fondamental, 
+d'où un harmonique "deux" très fort, que l'on constate sur les guitares à fond mince. 
+
+Théoriquement, si par ailleurs la partie de la table devant le chevalet
+footnote:[Le chevalet, selon le réseau du barrage intérieur de la table, peut solliciter 
+davantage le côté devant ou le côté derrière de la table où il est situé.] est sollicitée 
+par le même ventre et la même surtension qu'opère la corde en vibrant, son déplacement 
+vers l'intérieur de la guitare va créer en même temps un mouvement inverse de celui du 
+fond qui s'abaisse de son côté. Les deux mouvements conjugués vont établir un train 
+d'ondes de fortes amplitudes donnant un harmonique deux encore plus fort et par 
+conséquent du grave bien timbré, profond.
+
+Mais si c'est la partie de la table située derrière le chevalet qui est la plus
+active, son déplacement vers l'extérieur sera compensé par le mouvement du fond
+vers l'intérieur et les deux mouvements pourront s'annuler éventuellement ; ce
+qui peut expliquer la présence de basses mal timbrées sur des guitares légères,
+de structure mince qui devraient ne pas avoir de déficience de ce côté.
+
+Dans la réalité, toutes les situations vibratoires sont possibles, se
+superposent et, selon la hauteur de la note, s'accommodent plus ou moins bien de
+leur résonateur, d'où une sensation d'homogénéité et d'égalité de niveau
+satisfaisante ou non. Entre les divers problèmes qui s'offrent au luthier, au
+niveau du manche, de la table, du fond, des éclisses et de la bonne entente de
+toutes ces pièces couplées, réunies entre elles, de nombreuses années
+d'observations sont nécessaires et les situations sont toujours complexes et
+contradictoires souvent, mais quand les réponses sont en bonne voie de
+formation, l'expérimentateur et créateur en tire des satisfactions.
+
+Satisfactions limitées car à mesure que l'on contrôle et que l'on avance
+apparaissent d'autres problèmes.
+
+Pour apporter des éléments de réponse précis à propos du fond et des éclisses
+nous avons réalisé et enregistré une série d'expériences.
+
+=== Description des expériences (et commentaires du luthier)
+
+Nous avons construit à cet effet une guitare dont le fond était en contreplaqué
+moulé et galbé en trois épaisseurs (trois plis), deux épaisseurs de placage de
+palissandre autour d'un contreplaqué épais de dix-huit dixièmes de millimètre.
+L'épaisseur totale était de vingt-huit dixièmes de millimètre. La hauteur
+maximale de la voûte était de dix-neuf millimètres, le poids de 272 gr. Ce fond
+#ne comportait pas de barrage# et constituait l'expérience numéro un.
+
+==== Expérience 1
+
+Cette guitare était facile à jouer du fait de la très grande souplesse du fond.
+Elle était dotée de fortes basses profondes, occasionnées par la basse fréquence
+propre du fond en tant que résonateur. Par contre, les médiums et les aigus
+étaient peu timbrés et sans intérêt, avec peu d'homogénéité dans le timbre et
+le niveau sonore. Les trois dernières notes aigües étaient pauvres sur la
+chanterelle.
+
+==== Expérience 2
+
+Sur la même guitare, #on obture complètement la rose# avec un #tampon de
+caoutchouc mousse#.
+
+L'instrument émet une partie du son habituel seulement. La table est freinée
+dans ses mouvements par l'air emprisonné à l'intérieur, ce qui tend à coupler le
+fond avec la table. Le son est très court, très amorti, et très voilé, les
+basses sont maigres.
+
+==== Expérience 3
+
+La rose étant rendue libre #on pratique une ouverture dans le fond semblable à
+celle de la rose# (87 millimètres) au milieu de la plus grande largeur.
+
+Les basses perdent alors complètement leur timbre grave au départ, le son
+devient plat et pauvre en général. Le mode vibratoire du fond est changé du fait
+de l'ouverture. Une partie du son passe par derrière et de disperse
+(l'instrument est moins directionnel); le volume d'air de la caisse perd son
+rôle, la rose émet très peu semble-t-il.
+
+==== Expérience 4
+
+#On rebouche la rose en ne gardant que l'ouverture du fond#.
+
+La guitare fonctionne mieux, le "haut parleur" émet par derrière les séries de
+compression, des fréquences graves de la cavité ,qui fonctionne mieux . Les
+aigus semblent moins souffrir.
+
+==== Expérience 5
+
+On enlève le premier fond collé et celui-ci est remplacé par un fond très lourd
+(et barré de trois barres d'acajou), constitué de deux épaisseurs collées de
+bois différents. La première en palissandre pesant 280 grammes, la seconde en
+acajou pesant 155 grammes et placée au dessus, réalisant un poids total de 435
+gr sans les barrages. La guitare pèse en état de fonctionner 1920 gr.
+
+Le son est alors sec, sans souplesse, riche mais manquant de moelleux, le jeu
+est difficile car le manche est totalement immobilisé par ce fond épais et
+barré. L'action directe du talon de manche qui cherche à étirer et tendre le
+fond légèrement galbé est nulle du fait de sa rigidité. Celui-ci, comme
+résonateur, favorise des fréquences plus élevées.
+
+==== Expérience 6
+
+L'épaisseur d'acajou superficielle est rabotée sur toute la partie large du fond
+(<<fig-45,Figure 45>>) ce qui représente 90 grammes de bois en moins. Sur un
+poids total de 1830 grammes pour la guitare. Le son est meilleur, le moelleux
+apparaît, le toucher semble plus aisé. Le fond normal de palissandre, débarrassé
+d'une sur-épaisseur d'acajou dans sa partie large, favorise de nouveau des
+fréquences plus basses et donne un timbre plus intéressant, plus chaleureux.
+L'équilibre entre basses et aigus est satisfaisant. C'est le meilleur résultat
+de toute la série d'essais mais les trois dernières notes sont toujours mal
+timbrées et faibles.
+
+[.text-center]                                                                          
+[[fig-45]]
+image::fig-45.jpg[Figure 45, 600, scaledwidth="100%"]
+
+==== Expérience 7
+
+Le restant du fond d'acajou est raboté sur la partie étroite du fond
+(<<fig-45,Figure 45>>)). La guitare pèse alors 1.765 grammes, avec un fond
+simple de palissandre des Indes de 280 grammes (avec ses trois barres d'acajou
+en plus).
+
+Le son devient encore plus rond mais plus épais et pâteux, moins clair, moins
+cristallin. Les basses sont sombres, la chanterelle inégale, les trois dernières
+notes toujours ternes.
+
+Le fond fonctionne encore mieux dans les fréquences graves et la sonorité s'est
+assombrie d'un degré de plus. Le manche est beaucoup plus libre de bouger sous
+l'action des cordes, l'épaisseur du fond étant plus fine au talon de ce dernier.
+
+==== Expérience 8
+
+#Le fond normal de palissandre est enlevé avec précaution et les éclisses sont
+diminuées de moitié en hauteur#. Puis on ajuste à nouveau le fond retiré ; on
+le recolle et cela donne une guitare très plate de 6 cm d'épaisseur.
+
+Le son est assez grêle dans l'ensemble, clair et mordant. Les basses sont
+maigres, sans profondeur (mais les trois dernières notes de la chanterelle
+sont meilleures) le manque de grave donne une sensation de sécheresse à
+l'écoute directe.
+
+Le volume de la cavité, de la caisse sonore étant réduit de moitié, l'instrument
+a perdu une de ses composantes majeures et n'a plus de "coffre" Les
+fréquences propres des éclisses sont beaucoup plus élevées, elles vibrent
+naturellement plus haut en renforçant les suraigus.
+
+Le fond est assez passif dans les fréquences graves, l'action du talon de
+manche est minimale du fait de sa petitesse (le "levier" opère un mouvement
+très réduit).
+
+Monsieur Leipp, chef tu laboratoire d'accoustique musicale de Paris VI va
+reprendre ces huit expériences dans le même ordre et va commentar les analyses
+qui ont été faites laboratoire, lors de la deuxième réunion sur la guitare et
+dans le bulletins, correspondant, le numéro 93.
+

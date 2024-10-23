@@ -1,0 +1,117 @@
+== Examen d'une Pièce de Bois Résineux
+
+=== Structure de l'Épicéa
+
+Ces bois sont constitués principalement par des #cellules axiales# (dans le sens
+de la longueur) qui sont de minuscules "tuyaux juxtaposés" de l millimètre et
+demi à quatre millimètres et demi de longueur. Ils constituent souvent 90 % du
+volume total du bois.
+
+On trouve également des cellules radiales (dans le sens du milieu vers
+l'extérieur) qui constituent les Rayons ligneux.
+
+Les cellules axiales (les trachéides) sont de deux sortes (<<fig-29,Figure 29>>):
+
+[.text-center]
+[[fig-29]]
+image::fig-29.jpg[Figure 29, 600, scaledwidth="100%"]
+
+1. Celles qui se forment au début de la saison de Végétation (dans la zone
+   initiale) à parois minces, qui sont des éléments conducteurs de sève.
+2. Celles qui se forment à la fin de la saison de végétation dans la zone finale,
+   à #parois épaisses# et à section aplatie, qui sont des éléments de #soutien#, et
+   donnent de la rigidité au bois, de la résistance.
+
+Ces cellules très serrées délimitent les couches annuelles et #forment les
+veines#.
+
+Les facteurs externes (le méristème) influencent grandement la structure et
+déterminent la proportion de cellules de printemps et de cellules de bois final
+d'automne. Ces facteurs incluent l'altitude, l'environnement immédiat de
+l'arbre, le terrain, la pluviosité.
+
+On sait que l'altitude (vers 1.000 m) donne souvent un épicéa à couches fines,
+la durée de la végétation étant courte. Cela donne en général un bois lourd et
+dense, dit à #texture forte#.
+
+Les cellules de bois final d'automne sont donc #l'armature# naturelle de
+l'épicéa dans le sens #longitudinal#.
+
+Il est rare de rencontrer des arbres dont la croissance a été régulière au cours
+des deux ou trois siècles nécessaires pour faire un beau bois de lutherie. Les
+couches annuelles sont irrégulières du fait que les pluies ont été plus fortes,
+ou la temperature plus douce une ou plusieurs années. L'abattage d'un arbre
+voisin provoque immédiatement un élargissement des couches de cellules. Cela se
+constate quand dans le travers d'une planchette on a des zones plus denses et
+plus rigides par endroit.
+
+Dans le sens radial de l'arbre, une multitude de rayons ligneux dont la section
+est lenticulaire ou très aplatie, constituent la "trame" du bois de travers, son
+armature "solide" (<<fig-28,Figure 28>>). La hauteur des rayons ligneux est
+faibl, de un à trois dixièmes de millimètre. Ils sont composés de cellules à
+paraois plus ou moins épaisses. Les rayons, selon leur nombre et leur épaisseur,
+semblent bien conditionner la rigidité radiale, c'est à dire "en bois de
+travers".footnote:[A cette question, le Centre Technique du bois consulté, a
+répondu que cette hypothèse "était fort probable".].
+
+[.text-center]
+[[fig-28]]
+image::fig-28.jpg[Figure 28, 600, scaledwidth="100%"]
+
+Une remarque important s'impose alors: si l'on prélève une planchette #hors de
+l'axe parfait du tronc d'épicéa# on ne trouve plus les rayons ligneux en entier,
+mais #fractionnés#, d'où une"molesse" de cette planchette dans le sens du
+travers, et une cause de différence énorme d'une planchette tirée dans l'axe à
+une seconde provenant d'une autre région de l'arbre.
+
+Une déduction apparaît également: Lors d'un achat de bois, la présence de fines
+#mailles mirointantes# sous l'effet de la lumière, indique la présence de
+rayons ligneux tranchés avec les "fibres" qui les contournent, et par conséquent
+que l'on est en présence d'une planche prise dans le milieu de l'arbre, qui
+présentera une rigidité "en travers" maximale.
+
+Une source d'irrégularité notoire des capacités mécaniques des bois et de
+l'épicéa en particulier, provient du fait que très souvent le fil du bois n'a pas
+poussé parfaitement parallèle et vertical, et que dans l'épaisseur de la planche
+on constate des ondulations du sens des fibres. Dans ce cas le fil est dit :
+"tranché", et l'on trouve des caractéristiques mécaniques très diverses d'un
+morceau à l'autre.
+
+Pour toutes les raisons précédement exposées, quand par exemple on débite des
+pièces de bois pour les barrages des instruments (dans une même planche) on peut
+noter que les pièces taillées dans une partie particulièrement dure et
+résineuse, présentent des cotes de flexion, des caractéristiques mécaniques,
+allant du simple au triple, c'est à dire trois fois plus résistant qu'une pièce
+tirée d'une partie plus molle.
+
+Ce manque d'homogénéité pose une problème qui peut se résoudre en contrôlant, en
+mesurant, et parfois en pesant presque toutes les pièces, ce qui permet de
+choisir #celles présentant les capacités recherchées#.
+
+Ces contrôles porteront, et pour les tables:
+
+ - sur les flexions des pièces,
+ - sur leur poids,
+ - sur leur compressibilité au bois de travers.
+
+Compressibilité que l'on peut prendre avec un échantillon de qualques
+centimètres sur toute la largeur de la table juste jointée, mesure toujours
+difficile à effectuer.
+
+Un bois de table #fortement compressible# est un boi mou en travers et souple,
+qui présentera des réactions molles et des risques de fatigue rapide sous la
+traction des cordes. Sa mesure précise est intéressante.
+
+==== Dispositif pour la Mesure de Compression
+
+Il s'agit de placer verticalement, de faire coulisser l'échantillon, long d'une
+quarantaine de centimètre, en bois de travers, dans un étui dont les parois le
+maintiennent rectiligne (comme une tablette de boulanger que l'on pousse
+après usage).
+
+On applique ensuite sur l'extrémité une charge de 10 kg par centimètre carré
+de section (environ). On lit le tassement sur un comparateur à cadran qu'il faut
+incorporer dans le dispositif de mesure. Les tables #feront l'objet également
+d'une écoute par percussion# au centre de gravité, suivie éventuellement d'une
+analyse de ce choc en laboratoire (étudiée plus loin dans ce bulletin n 93).
+

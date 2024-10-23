@@ -1,0 +1,171 @@
+== Table - Neck - Strings System
+
+=== Power Study - Attempt at an Operating Theory
+
+> It is implied that the majority of guitarists want an instrument with a 
+> long sound, one that may be less explosive in the first second but still 
+> retains body in the following ones.
+
+When releasing the string, let’s take the 6th string, the low E - after creating a 
+#tension#, #thus a simultaneous movement# of the table and the neck, through 
+finger pressure on the string, a complex vibration of the instrument can be observed.
+
+1°) #Direct Way#
+
+The table begins to oscillate and vibrate due to the string’s action.
+
+The neck also moves, particularly the head (easily verified by holding it 
+between your fingers) at the other end of the string.
+
+If the neck’s wood and heel are hard and rigid enough, and the back is 
+flexible and lightly braced, a movement will occur where the back stretches 
+alternately under the tension from the heel (<<fig-25,Figure 25>>). This 
+movement cannot exist without a domed and arched back.
+
+[.text-center]
+[[fig-25]]
+image::fig-25.jpg[Figure 25, 600, scaledwidth="100%"]
+
+The part of the table (which is arched) behind the bridge also experiences 
+additional tension with each vibration of the string (which merges into a 
+complex vibratory mode).
+
+These vibrations are immediately transmitted to the sides and back by the 
+material used, reinforcing certain frequencies and giving a particular 
+character to an entire range of sounds.
+
+2°) #Indirect Way#, through the air
+
+The vibrating air volume created by the table’s movements will activate the 
+back and sides around their own frequencies and project sound waves through 
+the table's opening.
+
+All these vibrations combine and overlap to create complex sounds with a 
+certain character, which the luthier attempts to control.
+
+#The Neck#
+
+Upon closer observation of the neck, three possible flexion points or joints 
+are seen, which are the site of vibratory movements upon releasing the string 
+and combine instantly (<<fig-26,Figure 26>>).
+
+[.text-center]
+[[fig-26]]
+image::fig-26.jpg[Figure 26, 600, scaledwidth="100%"]
+
+#Let’s take two extreme cases#:
+
+This neck can be made of hard, heavy, and rigid wood,
+
+- or carved from a soft, light wood,
+- or simply too thin or too thick.
+
+_(A neck is considered too thin when, under string tension, its deflection 
+exceeds 4/10 mm. If this tolerance is exceeded, buzzing of the bass strings 
+and "snapping" of the trebles will occur as early as the sixth or seventh fret, 
+forcing the bridge saddle to be raised.)_
+
+#Heavy and rigid neck#:
+
+In the case of a too heavy and rigid neck, we can imagine that upon 
+releasing the string, its reaction - suddenly freed – #will hinder the 
+string's movement#. It #dominates# the system and will prevent the rapid 
+establishment of low-frequency vibrations, for example. The bass notes will 
+be dry and lack warmth. It behaves like a filter.
+
+This neck, pulling erratically, will also hinder the table, resulting in 
+difficult coupling, non-spontaneous sound emission, and ultimately a loss of 
+power.
+
+#Flexible, light, or thin neck#:
+
+On the opposite end, a very flexible or too thin neck is also problematic. 
+When the finger presses on the string to create tension, it is the weakest, 
+most flexible end that bends and moves. In this case, it will be the neck 
+that moves forward, not the table, which is not the desired result in 
+lutherie.
+
+It is tempting to conclude that in any case, the important thing is to move 
+the table, ensuring that the string action only manifests on the table side. 
+Some luthiers place a very robust neck on their guitars or create an internal 
+reinforcement for this neck. The solution to this type of problem often lies 
+in a compromise between advantages and disadvantages.
+
+#The Table#
+
+The problem becomes more complicated with the table, located at the other 
+end of the string.
+
+It, too, can be schematically designed in two different extreme ways.
+
+1. #Too rigid a table#. It moves little, resulting in a small, rather dry 
+   and clear sound with little amplitude and difficult playability.
+2. #Too flexible a table#. Large amplitudes favor bass frequencies, with a 
+   very strong second harmonic, easy playability, and warmth in the bass, 
+   but generally a short sound.
+
+It is possible to visualize and illustrate this oscillating system at little 
+cost by placing on two small rollers spaced forty centimeters apart, a first 
+spruce strip 5 millimeters by 5 millimeters in cross-section (<<fig-27,Figure 
+27>>). By hanging a 500 g weight in the middle, gently pulling it down and 
+releasing it, a fairly rapid and long-lasting movement is observed (the weight 
+represents the action of the strings on the table).
+
+[.text-center]
+[[fig-27]]
+image::fig-27.jpg[Figure 27, 600, scaledwidth="100%"]
+
+Then by placing a strip of the same wood but thinner, only 3 millimeters 
+thick, if the operation is repeated, a large amplitude movement is observed, 
+much slower and shorter, representing the behavior of an overly flexible table.
+
+#Table and Neck#
+
+When combining the Table and Neck, two extreme cases emerge:
+
+1. #Too rigid Table and Neck#: Only the string stretches, nothing moves 
+   easily, sound emission is difficult, the sound is small, dry, poorly 
+   toned, metallic, and lacks bass.
+2. #Too flexible Table and Neck#: There will be a lot of bass, the guitar 
+   will feel soft to play (with a mushy phrasing). The sound will be short in 
+   general, dull, and there will be buzzing and snapping when attacking the 
+   notes.
+
+We may also consider adding a flexible neck to a rigid table or vice versa, 
+as we have already seen. As always in lutherie, this will be an artistic 
+choice, representing the creator’s personality.
+
+The quest for power, that is, #balancing the "Table-Neck-String" system#, 
+can be facilitated by the #Measurement of Neck and Table Flexibility 
+separately#, and then by the same measurement, once the instrument is 
+#finished#, with the strings tightened and loosened, as we will see in the 
+section "Flexion Controls."
+
+#Remark#:
+
+In the past, luthiers would tighten the strings of their instruments until 
+they "rang" and worked well. Today, demands seem to be higher. Indeed, to 
+achieve a long, well-toned sound, without weaknesses across three and a half 
+octaves, considerable research is necessary, while maintaining a fixed tuning 
+set by the A 440 Hz tuning fork.
+
+To create the optimal tuning and the right balance of the table, neck, and 
+strings, a neck with an adjustable attachment and two screws that brace the 
+table can be made. We built one ourselves, but the variation is not large 
+enough.
+
+#Second solution#: The only option left is to adjust the table after testing 
+the instrument (this correction is only possible with a bracing system designed 
+for this purpose).
+
+#Third solution#: It is possible to improve things by changing the string 
+tension.
+
+A final observation regarding the wood used for over a century in the necks 
+of most quality classical guitars: Honduras Cedar seems to have a rare 
+quality in addition to its stability and lightness. Its highly dampened 
+texture (and very fragile to knocks) allows it to stop and filter certain 
+vibrations from the head, which could be harmful if they reverberated into 
+the soundbox, blending with the vibrations from the bridge side. This wood 
+therefore gives the sound cleanliness, clarity, and homogeneity, along with 
+spontaneity due to its lightness.

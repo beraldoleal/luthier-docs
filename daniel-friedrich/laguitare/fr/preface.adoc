@@ -1,0 +1,31 @@
+[preface]
+= Préface
+
+Ce travail est une création originale de Daniel Friedrich et Emile Leipp, rédigée 
+lors de leur participation au Groupe d’Acoustique Musicale (GAM) de l’Université 
+Paris VI. Le GAM était un groupe pionnier dans l'étude de l'acoustique musicale et, 
+de 1963 à 1987, il a joué un rôle important dans l'avancement de la recherche dans 
+ce domaine. Leurs séminaires et publications ont grandement contribué à la 
+diffusion des connaissances sur les instruments de musique, y compris cette 
+exploration approfondie de la construction et de l’acoustique de la guitare 
+classique.
+
+En tant que luthier amateur et admirateur de longue date du travail de Daniel 
+Friedrich, j'ai entrepris de convertir ce précieux document dans un format plus 
+moderne, adapté à la lecture sur des appareils comme les tablettes et les 
+Kindles. Mon objectif n’était pas seulement de faciliter la lecture, mais aussi de 
+soutenir de futures traductions, permettant ainsi à ces connaissances de toucher 
+un public plus large.
+
+Vous pouvez trouver le bulletin original à ce lien :
+link:https://www.lam.jussieu.fr/Publications/BulletinsGAM/GAM_92-La%20Guitare_Friederich.pdf[Bulletin
+original du GAM en PDF].
+
+Si vous souhaitez contribuer à la traduction de ce travail dans d’autres langues 
+ou collaborer à l’amélioration du format, vous pouvez visiter le dépôt du
+link:https://github.com/beraldoleal/luthier-docs/daniel-friedrich/laguitare/[projet 
+sur GitHub].
+
+
+[.text-right]
+-- Beraldo Leal  

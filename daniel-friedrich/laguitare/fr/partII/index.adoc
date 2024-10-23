@@ -1,0 +1,105 @@
+= Principes de Fonctionnement de la Guitare Classique
+
+On distingue deux parties:
+
+1. Le système Excitateur ; ce sont les cordes.
+2. Le système Amplificateur et résonateur, constitué par le corps sonore de
+   l'instrument.
+
+Les cordes fournissent un riche signal, de nombreuses fréquences qui seront
+amplifiées par la table, si elle est bien conçue, et par les autres pièces du
+corps sonore.footnote:[Amplifiées pris dans le sens pratique car il n'y a pas augmentation
+de l'énergie fourníe par les cordes mais optimalisation.]
+
+Toutes ces pièces, ces parties ont une fréquence propre et se comportent comme
+des résonateurs.
+
+Comme elles sont solidaires, attachées, collées, ce sont des résonateurs
+couplés.
+
+Le gros problème est d'amplifier toutes les fréquences émises par les cordes
+sans avantager ou restreindre certaines d'entre elles, c'est-à-dire sans
+sur-résonance ni trous dans la réponse de l'instrument, qui doit être égale
+pour toutes les notes et tendre vers ce but.
+
+Si la table amplifie fortement une fréquence renforcée par la vibration d'une
+des parties constitutives, on a une sur-résonance.
+
+Le contraire est également possible.
+
+On peut donc modifier les éléments constitutifs, toutes les pièces pour
+obtenir une réponse très égale, mais sans nuire aux qualités déjà acquises.
+
+Assez rapidement un problème nouveau apparaît. L'énergie communiquée par le
+pouce à la corde peut être restituée par la guitare en trois secondes ou en
+six secondes, selon sa construction.
+
+On aura alors deux choix extrêmes possibles:
+
+1. Faire une guitare légère, au plus 1.600 grammes avec une table fine, à la
+   manière d'une peau de tambour. On aura de fortes amplitudes mais des
+   extinctions rapides du son, d'autant plus que le fond sera très fin et les
+   éclisses pareillement. Cela donnera de fortes basses, un son rond et mat en
+   général et un son court dont on entendra beaucoup les attaques.
+
+2. Faire un instrument plus lourd, avec des épaisseurs plus fortes, avec une
+   table barrée plus fortement (bien nervurée) qui résiste, qui fait "ressort",
+   qui n'est pas bloquée, à bout de course. Avec un manche bien pensé, le tout
+   sera en équilibre avec de bonnes possibilités d'oscillation. D'où : Longueur
+   de son, puissance maximale et excellent rendement.
+
+Il faut noter qu'on ne peut rien modifier sans changer quelque chose dans la
+réponse, dans le son de la guitare, en bien ou en mal. Pour progresser, une
+observation très attentive est nécessaire.
+
+Une fiche technique doit être établie pour chaque instrument. Finalement, le
+constructeur est seul pour le choix de ses options. Il doit être doué d'un
+esprit de synthèse et d'un bon sens artistique certain.
+
+Il n'y a pas de "secrets majeurs" pour concevoir, créer une guitare, mais
+mille choses à savoir. Il n'y a pas de "trucs" miraculeux, mais seulement de
+l'expérience et beaucoup d'expériences afin d'en tirer des observations, des
+enseignements, des solutions.
+
+Parmi les nombreux problèmes posés au luthier, certains présentent des
+réalités difficiles à saisir qui échappent partiellement à la technique des
+laboratoires et les font tomber dans le domaine artistique (qui se trouve
+assez vaste encore).
+
+Ces expériences porteront sur:
+
+1. La puissance (de loin, de près)
+2. La longueur de son
+3. L'égalité du niveau sonore
+4. Le timbre
+5. L'équilibre entre graves et aigus
+6. Le toucher facile ou difficile de l'instrument
+7. L'homogénéité des sons
+8. La spontanéité de la réponse et la sensibilité
+9. L'attaque du son - audible ou non
+10. Le contraste (jeu clavecin ou harpe)
+11. Résonances sympathiques - présentes ou non
+12. Clarté dans les accords ou obscurité
+
+Tous ces éléments constituent les caractères principaux de l'instrument mais
+nous ne verrons, dans le cadre de cet exposé, que certains d'entre eux. #La
+puissance et la longueur de son#, spécialement. En fait, l'expérimentateur
+prendra la mesure des autres éléments au cours de ses recherches de puissance et
+de longueur de son.
+
+Quelle priorité donner aux différentes parties de l'instrument pour leur
+étude?
+
+Si on expérimente sur plusieurs points en même temps, les interprétations
+seront douteuses et difficiles ; par ordre d'importance il faudra donc voir :
+
+1. #La table# avec son barrage, le choix des bois, l'épaisseur.
+2. Le manche, nature du bois, épaisseur.
+3. #Le corps#, les éclisses, le fond.
+4. Le chevalet avec le volume et la forme, les voûtes.
+5. Les colles, les vernis.
+
+L'étude qui va suivre concerne surtout le système "Table-Manche-Cordes". Puis
+nous verrons une recherche à propos du rôle de la table et du fond complétée
+par une approche historique et technique des chevalets.
+

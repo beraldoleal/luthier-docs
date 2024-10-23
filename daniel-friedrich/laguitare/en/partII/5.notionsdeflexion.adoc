@@ -1,0 +1,186 @@
+== Notions de Flexionfootnote:[Voir cahier du Centre technique du bois: Calcul des tablettes et rayonnage (1968)]: et Contrôles Divers
+
+Une planchette chargée en son milieu est soumise à une contrainte de
+compression pour la partie supérieure et de traction pour la partie inférieure.
+Elle est maximale dans les fibres de surface.
+
+On observe une fibre neutre au milieu.
+
+- La déformation, la courbure des pièces peuvent se calculer.
+- On rencontre aussi la notion de Module d'élasticité ou module d'Young. Cela
+  représente simplement le degré de rigidité du bois qui déterminera un
+  fléchissement plus ou moins prononcé.
+
+Dans la facture de guitare, il se trouve beaucoup de flexions possibles à
+enregistrer que l'on peut mesurer avec quelques appareils simples faits par
+l'expérimentateur.
+
+[upperroman]
+. *Flexion Longitudinale*: En prenant une des deux planchettes qui constituera
+la table, uniformément rabotée à 3 mm par exemple, on pourra la placer dans le
+dispositif (<<fig-30,Figure 30>>) de telle manière que l'endroit où se situera
+l'axe de la pliure corresponde exactement à l'axe du chevalet. En appliquant un
+poids de 500 gr environ, à un emplacement adéquat, on pourra mesurer la
+différence soit avec deux réglets métalliques (un de chaque côté) coulissant sur
+un aimant ou avec un comparateur monté sur un support.
+
+[.text-center]
+[[fig-30]]
+image::fig-30.jpg[Figure 30, 600, scaledwidth="100%"]
+
++
+Cela peut s'appeler la #Flexion Longitudinale#.
+
+. *Flexion Combinée*: Quand la table est jointée et collée, il est possible de
+prendre une mesure plus complète qui donne une indication réelle de sa souplesse
+ou de sa rigidité avec un appareil (<<fig-31,Figure 31>>) constitué de deux
+"moules extérieurs" en bois épais et indéformable dont l'intérieur est le tracé
+exact de la guitare.
+
+[.text-center]
+[[fig-31]]
+image::fig-31.jpg[Figure 31, 600, scaledwidth="100%"]
+
++
+En placant ces deux "moules" l'un sur l'autre et en les maintenant très serrés
+(avec la table su milieu) à l'aide de presses, il est possible, en appliquant un
+poids d'environ huit kilos `a l'endroit où sera le chevalet, de relever la
+flexion à l'aide d'une jauge de profoundeur à tige et à cadran. Cette jauge
+prendra appuir sur une passerelle entre les deux traverses de laquelle viendra
+s'insérer le poids de 8kg reposant sur un chevalet à l'endroit même qu'il
+occupera quand l'instrument sera terminé.
+
++
+Cette flexion donnera la résultante de la rigidité transversale et
+longitudinale ensmble, d'où son nom de #flexion combinée#.
+
+. *Flexion de Barrettes*: Après le bois de table, vient le tour des différentes
+pièces du barrage (<<fig-32,Figure 32>>).
+
++
+La flexion de chaque barrette (ou baguette) peut être prise très rapidement en
+la plaçant sur deux petits rouleaux distants de quarante centimètres environ. En
+y accrochant un poids de cinq cents grammes, on peut lire sur un "réglet adapté"
+la déformation maximale.
+
+. *La flexion du chevalet* (qui se trouve être un barrage transversal) est
+intéressante. On peut de cette faćon tester un lot de ces pièces en effectuant
+au hasard quelques mesures, ou bien les mesurer un par un systématiquement, en
+inmobilisant par une des pattes serrée dans un petit étau adapté, le chevalet,
+et en accrochant un poids de 1.000 grammes à l'extrémité de l'autre patte. Le
+déplacement se lit facilement avec un comparateur au dixième de millimètre.
+
++
+Pour les chevaletes on peut sussi chiffrer leur aptitute au gauchissement,
+notion qui présente un intérêt certain si l'on cherche à donner une indépendance
+entre le côté grave et aigu de la guitare. Un chevalet trop épais ou en bois
+très dur se meut d'un seul bloc, #sans souplesse#.
+
+. *Flexion du manche ébauché*: (<<fig-33,Figure 33>>) Cette importante mesure
+est à prendre quand un lot de manche est seulement ébauché, c'est-à-dire découpé
+avec tête et talon collés. En maintenant le manche par la languette du talon et
+en appliquant sur la palmette un poids de 10 kg, on peut relever la flexion avec
+un pied à coulisse adéquat.
+
++
+Il est nécessaire de relever aussi le #poids# du manche brut et de se faire un
+système de référence avec tous les bois employés à cette fin.
+
+. *Flexion de la touche d'ébène*: Le procédé à employer est semblable au numéro
+un prévu pour les tables (flexion longitudinale). En immobilisant une extrémité
+de la touche, on pose un poids de 1.000 gr à un endroit repéré et la déformation
+peut se lire sur un réglet métallique, ou à l'aide du comparateur. Il est
+inutile de pŕeciser que toutes les pièces devront être préalablement rabottées à
+la même épaisseur.
+
+. *Stabilité dimensionnelle*: Sous l'effet de l'humidité en pays tropicaux ou en
+bord de mer certaine gruitare semble fonctionner "mollement". On peut soupćonner
+certains bois de table d'être particulièrement hygroscopiques. Il est notoire en
+effet que certains épicéa très dense et très résineux refusent 'imprégnation de
+produits de conservation par trempage et leur point de saturation est bien plus
+bas que 28 pour cent d'eau qui est la moyenne pour ce bois.
+
++
+Pour en avoir une idée précise il faut mesurer des éprouvettes avant et après
+les avoir tour à tour immergées dans un bac à eau pendant dix minutes puis
+éventuellement jusqu'à saturation complète. L'expérimentateur notera des
+variations allant du simple au triple et il accordera sa préférence à un bois
+peu sensible quand il construira pour le Japon ou le Brésil.
+
++
+Le système est simple: une butée coulissant (à la manière d'une toise) vient
+s'appliquer sur l'échantillon. Un comparateur à dos aimanté est placé derrière
+cette butée.
+
+
+. *Flexion du manche* cordes détendues et cordes tendues (<<fig-34,Figure 34>>).
+Quand l'instrument est terminé et avant le vernissage on peut contrôler le
+comportement du manche sur la caisse sonore en plaćant la guitare dans un
+dispositif où elle prend appui sur trois points situés à l'extrémité de la tête
+et de chaque côté de la plus grande largeur de caisse (le point de contact où la
+tête reposera devra être coulissant pour ne pas fausser la mesure). Il est
+facile alors de placer une charge de 10kg entre la 12ème et la 19ème frette et
+de mesurer le déplacement avec un pied à coulisse entre la 11ème et la 12ème
+frete.
+
+[.text-center]
+[[fig-34]]
+image::fig-34.jpg[Figure 34, 600, scaledwidth="100%"]
+
++
+Lorsque la guitare sera complètement terminée on répètera l'opération avec les
+cordes tendues et on aura la surprise de constater que certaines présentent une
+flexion plus ample quand les cordes sont tendues, donnant à réfléchir sur les
+raisons.
+
+. *Flexion de la table* cordes détendues et cordes tendues. Sans changer la
+guitare de place, on procède, après la mesure précédente, à celle concernant la
+flexibilité de la table quand la guitare est terminée. Le poids de 8 kg inséré
+entre les traverses de la passerelle viendra faire une pesée sur le chevalet
+posé temporairement avant le vernissage.
+
++
+On répètera l'opération avec le chevaalet collé, puis avec les cordes tendues et
+le luthier pourra observer des mouvements plus importants de la table quand, sur
+certains instruments les cordes sont tendeus. En règle générale le toucher de la
+guitare sera de plus en plus facile si la flexion de la table dépasse 2
+millimètres et si celle du manche atteint également ce chiffre dans la flexion
+précédente (numéro IX de cette rubrique).
+
++
+Un luthier aviśe tirera bien des enseignements de ces différentes mesures et il
+devra peser en outre les tables brutes de découpage, puis terminées ainsi que
+les manches, fonds, touches, éclisses afin d'arriver à obtenir un instrument
+dont le poids est conforme à ses volontés et prévisions.
+
++
+On entend beaucoup moins l'attaque des sons, le passage du doigt sur la corde si
+l'instrument est lourd. Toutefois il y a une limite au delà de laquelle la
+sensibilité, la spontanéité, la #souplesse du son# se trouvent altérées (la
+marge est étroite).
+
++
+Il nous apparaît pas du tout vain en cette fin du vingtième siècle de procéder à
+deux ou trois heures de mesures et de contrôle (puis de notations et de mise en
+fichier) sur un total d'une centaine d'heures de travail nécessaires pour
+réaliser une gritare de qualité.
+
++
+Pour le luthier d'Art l'approache fine et la connaissance de ces éléments
+mécaniques détermineront une souplesse et une variéte plus grande de sa
+contruction et une arme contre les "facteurs industriels de guitare" que tous
+changements et modifications contrarient.
+
++
+Il n'est pas interdit de penser que les grands maîtres du passé avait déjà mis
+au point un système de références personnelles qui leur avait permis secrètement
+d'aller plus loin avec des bases plus sûres. (Nous souhaitons personnellement
+que ces procédes de contrôle constituent l'apport technique le plus intérresant
+que nous puissions donner dans le cadre de cet essai).
+
++
+Une remarque finale est à inscrire en gros caractères :
+
++
+**II est impossible de faire deux instruments semblables sans utiliser les mêmes bois.**
+

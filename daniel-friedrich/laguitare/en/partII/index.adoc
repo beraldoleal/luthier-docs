@@ -1,0 +1,99 @@
+= Principles of Classical Guitar Functioning
+
+We distinguish two parts:
+
+1. The Exciter system; these are the strings.
+2. The Amplifier and resonator system, consisting of the instrument's soundbox.
+
+The strings provide a rich signal, with many frequencies that will be amplified 
+by the soundboard, if it is well-designed, and by the other parts of the 
+soundbox.footnote:[Amplified in a practical sense because there is no increase in the energy 
+supplied by the strings but an optimization.]
+
+All these parts have their own frequency and behave as resonators.
+
+Since they are attached, glued, they are coupled resonators.
+
+The main challenge is to amplify all the frequencies emitted by the strings 
+without favoring or restricting some of them, meaning without over-resonance or 
+gaps in the instrument's response, which must be consistent across all notes and 
+aim towards this goal.
+
+If the soundboard strongly amplifies a frequency reinforced by the vibration of 
+one of the constituent parts, we get over-resonance.
+
+The opposite is also possible.
+
+Thus, we can modify the constituent elements, all the parts to obtain a very 
+even response, without harming the qualities already acquired.
+
+Fairly quickly, a new issue arises. The energy communicated by the thumb to the 
+string can be restored by the guitar in three seconds or in six seconds, 
+depending on its construction.
+
+Then, we will have two extreme possible choices:
+
+1. Build a light guitar, at most 1,600 grams with a thin soundboard, similar to 
+   a drum skin. This will give strong amplitudes but fast sound decay, especially 
+   if the back is very thin and the sides are the same. This will provide strong 
+   basses, a round and generally matte sound, and a short sound where the attacks 
+   will be very noticeable.
+
+2. Make a heavier instrument, with thicker dimensions, with a more heavily braced 
+   soundboard (well-ribbed) that resists, that acts as a "spring," which is not 
+   blocked or at its limit. With a well-thought-out neck, the whole will be in 
+   balance with good oscillation potential. Hence: long-lasting sound, maximum 
+   power, and excellent efficiency.
+
+It should be noted that nothing can be modified without changing something in 
+the response, in the sound of the guitar, for better or for worse. To progress, 
+careful observation is necessary.
+
+A technical sheet must be established for each instrument. In the end, the 
+builder is solely responsible for choosing his options. He must have a 
+synthesizing mind and a certain artistic sense.
+
+There are no "major secrets" for designing and creating a guitar, but there are 
+a thousand things to know. There are no "miraculous tricks," only experience and 
+a lot of experiments to draw observations, lessons, and solutions from.
+
+Among the many problems faced by the luthier, some present realities that are 
+difficult to grasp, partially escaping laboratory techniques, placing them in 
+the artistic domain (which remains vast).
+
+These experiments will focus on:
+
+1. Power (from afar, up close)
+2. Length of sound
+3. Consistency of sound level
+4. Timbre
+5. Balance between bass and treble
+6. Ease or difficulty of touch on the instrument
+7. Sound homogeneity
+8. Spontaneity of response and sensitivity
+9. Sound attack - audible or not
+10. Contrast (harpsichord or harp play)
+11. Sympathetic resonances - present or not
+12. Clarity in chords or muddiness
+
+All these elements constitute the main characteristics of the instrument, but 
+in this presentation, we will only cover some of them. #Power and length of 
+sound#, in particular. In fact, the experimenter will measure the other elements 
+during their research on power and sound length.
+
+What priority should be given to the various parts of the instrument for their 
+study?
+
+If we experiment on several points simultaneously, interpretations will be 
+uncertain and difficult; thus, by order of importance, we will need to examine:
+
+1. #The soundboard#, with its bracing, wood selection, and thickness.
+2. The neck, wood type, thickness.
+3. #The body#, the sides, and the back.
+4. The bridge with its volume and shape, the arches.
+5. The glues, the varnishes.
+
+The study that follows mainly concerns the "Soundboard-Neck-Strings" system. 
+Then we will explore the role of the soundboard and the back, complemented by a 
+historical and technical approach to bridges.
+

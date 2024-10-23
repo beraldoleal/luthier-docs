@@ -1,0 +1,56 @@
+== Examen des Bois - Contrôle
+
+=== Considérations Générales
+
+Quand le luthier est arrivé par essais successifs à un excellent résultat, se
+pose un problème majeur : "Comment reproduire exactement cet instrument
+aussi bien du point de vue Puissance que timbre, homogénéité, toucher,
+etc...". (Il est question ici de lutherie de haut niveau.)
+
+Les bois sont d'une extrême diversité, et cela même à l'intérieur d'un même
+arbre et d'une planche de cet arbre.
+
+On trouve plusieurs positions possibles face à ce problème :
+
+[loweralpha]
+.. L'optimiste se dit : "Le hasard me ménagera de bonnes surprises."
+
+.. Le constructeur soucieux pensera : "J'aime mieux contrôler le plus
+possible et expérimenter pour reculer le domaine encore flou de certaines de
+mes connaissances, et pouvoir proposer des oeuvres diverses et voulues."
+
+.. ou bien se dira : "Avec mes connaissances acquises je vais essayer de
+construire des guitares homogènes de qualité très semblables, avec des bois
+pourtant très souvent différents."
+
+De toutes façons, les erreurs sont très "malvenues", gênantes et le problème de
+la sélection des bois se pose.
+
+=== Remarques
+
+La première recherche qui s'impose est d'avoir des bois de table provenant de
+la même planche (difficile à réaliser car les tables vendues dans le commerce
+sont mélangées le plus souvent). Au bout de quelques années, on s'aperçoit que
+les planchettes prises vers le haut du tronc d'arbre sont plus serrées, plus
+rigides. Au prochain sciage, on prend soin alors de numéroter les tables en
+divisant le tronc en trois ou quatre parties croissantes en rigidité et en finesse
+de couches. On s'aperçoit malgré cela de #résultats inégaux#.
+
+Les mêmes observations sont à faire pour les manches qui, découpés dans les
+extrémités d'une planche en largeur, peuvent varier en poids et en rigidité
+d'une façon importante.
+
+**Pour sortir d'une lutherie de hasard, il faut aller plus loin et contrôler
+systématiquement toutes les pièces et les peser, choisir exactement le même
+type de bois qui a donné le résultat intéressant.**
+
+Fort heureusement, la lutherie toute en plaques de bois fines de la facture de
+guitare se prête bien à des contrôles et des examens, difficiles en lutherie
+concernant les violons.
+
+Nous proposons donc quelques observations rapides des résineux utilisés pour
+les tables (dans le cas présent de l'épicéa) avant de donner des notions
+précises sur le contrôle des flexions et l'étalonnage des différentes pièces
+constitutives; ainsi que les flexions que peut présenter l'instrument en cours
+de fabrication, et terminé.
+

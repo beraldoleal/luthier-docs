@@ -1,0 +1,177 @@
+== Système Table - Manche - Cordes
+:chapter-number: 1
+
+=== Recherche de Puissance - Essai de Théorie de fonctionnement
+
+> Il est sous-entendu que la majorité des guitaristes souhaitent posséder un
+> instrument doté d'un son long qui aura un côté, un aspect moins explosif dans
+> la première seconde, mais qui aura encore du corps dans les suivantes.
+
+Au lâcher de la corde, prenons la 6ème, le Mi grave - après avoir créé une
+#surtension#, #donc un mouvement simultané# de la table et du manche, par la
+pression du doigt sur la corde, on observe une mise en vibration complexe de
+l'instrument.
+
+1°) #Manière directe# 
+
+La table au lâcher se met à osciller, à vibrer sous l'action de la corde.
+
+Le manche également, en particulier la tête (facile à vérifier si on la tient
+entre les doigts) à l'autre extrémité de la corde.
+
+Si le bois du manche et son talon sont assez durs et rigides et que le fond est
+souple et peu barré, on aura un mouvement du fond qui se tendra alternativement
+sous la traction du talon (<<fig-25,Figure 25>>). Mouvement qui ne peut exister
+sans la présence d'un fond bombé et voûté.
+
+[.text-center]
+[[fig-25]]
+image::fig-25.jpg[Figure 25, 600, scaledwidth="100%"]
+
+La partie de la table (qui est voûtée) derrière le chevalet est aussi soumise à
+des tractions supplémentaires à chaque vibration de la corde (qui se fondent
+dans un mode vibratoire complexe).
+
+Les vibrations vont se communiquer instantanément aux éclisses et au fond par le
+matériau employé, renforçant certaines fréquences, et donnant un caractère
+particulier à toute une série de sons.
+
+2°) #Manière indirecte#, par voie aérienne
+
+Le volume d'air vibrant, créé par les déplacements de la table, va actionner le
+fond et les éclisses autour de leurs fréquences propres et projeter des ondes
+sonores à travers l'ouverture de la table.
+
+Toutes ces vibrations se combinent, se superposent pour donner des sons
+complexes dotés d'un certain caractère, que le luthier essaye de maîtriser.
+
+#Le Manche# 
+
+En observant de plus près le manche, on voit trois points de flexion,
+d'articulation possibles qui sont le siège de mouvements vibratoires au lâcher
+de la corde et qui se combinent instantanément (<<fig-26,Figure 26>>).
+
+[.text-center]
+[[fig-26]]
+image::fig-26.jpg[Figure 26, 600, scaledwidth="100%"]
+
+#Prenons deux cas extrêmes#:
+
+Ce manche peut être fait dans un bois dur, lourd et rigide
+
+- ou taillé dans un bois souple et léger,
+- ou tout simplement trop fin ou trop gros.
+
+_(On peut établir qu'un manche est trop fin quand sous la tension des cordes, sa
+flèche est supérieure à 4/10 de mm. Si cette tolérance est dépassée, on observe
+des phénomènes de frisage des cordes basses et de "claquement" des aigus dès que
+l'on atteint le sixième ou septième frette, ce qui oblige à hausser le sillet du
+chevalet.)_
+
+#Manche lourd et rigide#:
+
+On peut imaginer alors dans le cas d'un manche trop lourd et trop lourd et trop
+rigide, lqu'au lâcher de la corde sa réaction - brusquement libérée – #va gêner
+le mouvement de la corde#. Il #domine# le système et va empêcher l'installation
+rapide d'un régime vibratoire de basses fréquences par exemple. Les basses vont
+être sèches et dépourvues de moelleux. Il se comporte comme un filtre.
+
+Ce manche, qui tire anarchiquement, va gêner la table également, d'où un
+couplage difficile, une émission sans spontanéité, et finalement une perte de
+puissance.
+
+#Manche souple léger ou fin#: 
+
+Examinons le cas contraire d'un manche très souple ou trop fin c'est aussi
+fâcheux. Lorsque le doigt en appuyant sur la corde crée une surtension, c'est
+l'extrémité la plus faible, la plus souple qui plie et bouge. Dans ce cas, ce
+sera le manche qui viendra en avant, et non la table qui bougera, ce qui n'est
+pas le but recherché en lutherie.
+
+Evidemnent il est séduisant d'établir que de toutes faćon c'est de faire
+déplacer la table qui est important, et faire en sorte que l'action des cordes
+sa manifeste seulement du côté table. On peut voir alors certains luthiers
+placer un manche très robuste sur leurs guitares, ou réaliser une armature
+interne de ce manche. La solution de ce type de probléme réside souvent das un
+compromis entre les avantages et les inconvénients.
+
+#Table#:
+
+Le problème se corse avec la table, située à l'autre extrémité de la corde.
+
+Elle peut être conçue schématiquement, elle aussi de deux manières différentes
+et extrêmes.
+
+1. #Table trop rigide#. Elle bouge peu, d'où un petit son, assez sec et clair avec
+   peu d'amplitude et un jeu difficile.
+2. #Table trop souple#. On obtient de grandes amplitudes qui favorisent les
+   basses, l'harmonique 2 très fort, un toucher facile, du moelleux dans les
+   graves, mais un son court en général.
+
+Il est possible de visualiser et d'illustrer ce système oscillant à peu de
+frais, en plaçant sur deux petits rouleaux espacés de quarante centimètres une
+première baguette de bois d'épicéa de 5 millimètres sur 5 millimètres de section
+(<<fig-27,Figure 27>>). En accrochant un poids de 500 gr en son milieu, que l'on
+tire légèrement vers le bas et que l'on lâche, on observe un mouvement assez
+rapide et long en durée (le poids représente l'action des cordes sur la table).
+
+[.text-center]
+[[fig-27]]
+image::fig-27.jpg[Figure 27, 600, scaledwidth="100%"]
+
+Puis en plaćant une baguette du M6eme bois mais plus fine, d'une épaisseur de 3
+millimètres seulement, si on répète l'opération on observe un mouvement de
+grande amplitude, beaucoup plus lent et plus court qui représente bien le
+comportement d'une table trop souple.
+
+#Table et Manche#:
+
+En combinant Table et Manche, on trouve deux cas extrêmes :
+
+1. #Table et Manche trop rigides#: la corde seule s'allonge, rien ne bouge
+   volontiers, l'émission est pénible, le son est petit, sec, peu timbré et
+   métallique, sans graves.
+2. #Table et Manche trop souples#: on aura beaucoup de graves, le toucher de la
+   guitare sera mou (avec un phrasé pâteux). Le son sera court en général, mat,
+   et il y aura des phénomènes de frisage et claquage à l’attaque des notes.
+
+On pourra envisager également d'adjoindre un manche souple à une Table
+rigide ou le contraire, comme nous l'avons déjà vu. Ce sera, comme toujours en
+lutherie, un choix artistique représentant la personnalité de l'auteur.
+
+La recherche de puissance, c'est-à-dire #d'équilibre du système "Table-Manche-
+Cordes"#, peut être facilitée par la #Mesure de la Flexibilité du Manche et de la
+table séparément#, puis par cette même mesure, l'instrument étant #terminé#,
+cordes tendues et cordes détendues, comme nous allons le voir au paragraphe
+"Contrôle des flexions".
+
+#Remarque#: 
+
+Les luthiers d'autrefois tendaient les cordes de leurs instruments jusqu'à ce
+que celui-ci "Sonne" et fonctionne bien. Il semble que de nos jours les
+exigences soient plus grandes. En effet, pour que le son soit long, bien timbré,
+sans faiblesses dans les trois octaves et demie, une recherche considérable est
+nécessaire, en conservant un accord fixe donné par le diapason au LA 440
+hertz.
+
+Pour créer l'accord optimal et le bon équilibre de la table, du manche et des
+cordes on peut réaliser un manche réglable dont la fixation est réglable
+également, avec deux vis qui viennent prendre appui sur la table. Nous
+l'avons personnellement construit, mais la variation n'est pas assez grande.
+
+#2ème solution#: Il ne reste qu'à retoucher la table après un essai de
+l'instrument (ce repentir n'étant possible que sur un barrage prévu à cet effet).
+
+#3ème solution#: Il est possible d'améliorer les choses en changeant le tirant
+des cordes.
+
+Une dernière observation à propos du bois dont on fait depuis plus de cent ans
+les manches de la plupart des guitares classiques de qualité. Le Cédra du
+Honduras semble avoir une qualité rare en plus de sa stabilité et de sa
+légèreté. Sa texture très amortie (et très fragile aux coups) lui permet
+d'arrêter, de filtrer certaines vibrations provenant de la tête et qui
+pourraient nuire si elles se répercutaient jusqu'à la caisse sonore en
+chevauchant les vibrations émises côté chevalet. Ce bois donne donc un
+caractère de propreté, de netteté et d'homogénéité aux sons, et de spontanéité
+du fait de sa légèreté.
+

@@ -1,0 +1,113 @@
+== Le Chevalet
+
+Le chevalet transmet les vibrations de la corde à la table. C'est la dernière pièce que
+l'on colle lors de la construction. Depuis plus de cent ans, sa forme et sa structure
+se sont fixées pour la guitare destinée au jeu digital.
+
+L'ancien chevalet des 16ème, 17ème et 18ème siècles était semblable à celui du
+luth, une simple pièce de bois, une petite barre collée sur laquelle étaient fixées
+les cordes. Il aurait dû s'appeler "cordier," puisque les cordes ne passaient plus à
+cheval dessus comme au 13ème siècle.
+
+Le chevalet actuel, pour sa conception, a été engendré après de nombreux essais
+effectués dans toute l'Europe. Quelques schémas donneront une idée des
+principales étapes de son évolution (<<fig-41,Figure 41>>).
+
+[.text-center]
+[[fig-41]]
+image::fig-41.jpg[Figure 41, 600, scaledwidth="100%"]
+
+Le luthier français La Prévotte semble bien placé dans cette création collective,
+puisqu'avant 1856 il utilise un chevalet possédant les caractères modernes, c'est-à-dire
+l'adoption de deux parties distinctes pour sa structure (<<fig-42,Figure 42>>):
+
+[.text-center]
+[[fig-42]]
+image::fig-42.jpg[Figure 42, 600, scaledwidth="100%"]
+
+- Partie A : nouvelle venue, qu'on peut nommer "chevalet" avec son sillet.
+- Partie B : qu'on peut appeler "cordier" par commodité, et qui est l'ancienne
+	barre simple commune aux luths et guitares. La partie A sert à délimiter la
+	longueur vibrante de la corde avec précision, et la hauteur de son sillet, en
+	venant s'insérer et se placer en dessous de la corde pour la pousser vers le
+	haut, va faire subir à la table une pression et une torsion avec la
+	combinaison des pièces A et B.
+
+Il suffit de réunir ces deux pièces sur un seul socle pour en comprendre la réalité
+pratique de fonctionnement.
+
+Un élément apparaît immédiatement à l'observation : plus l'angle C.D.E.
+(<<fig-43,Figure 43>>) est fermé, plus l'effet de torsion est grand et plus la
+poussée de la corde est vigoureuse en D. On aura alors des basses avec de fortes
+amplitudes, profondes et bien timbrées si la table n'est pas trop rigide.
+C'était un des attraits de la guitare des années 1850 qui devenait plus grande
+de corps et présentait cette nouveauté d'avoir des basses vraiment profondes,
+graves et corsées.
+
+[.text-center]
+[[fig-43]]
+image::fig-43.jpg[Figure 43, 600, scaledwidth="100%"]
+
+Le luthier peut faire varier cet angle s'il a décidé de travailler "épais" pour sa
+table d'harmonie et l'obliger à fonctionner par force.
+
+Le chevalet actuel est fait en palissandre et pèse environ 18 grammes. Étant un
+barrage transversal de plus au milieu de la table, si on le fait trop rigide et trop
+lourd, en ébène par exemple, on constate un mauvais résultat sonore. L'inertie
+et la rigidité combinées suppriment une certaine indépendance entre le côté grave
+et le côté aigu de l'instrument, annulent certains modes vibratoires possibles de la
+table, et coupent donc une série de fréquences qui appauvrit l'instrument en timbre
+et en égalité de niveau sonore.
+
+Pour constater objectivement l'action exacte d'un type de chevalet, il est
+nécessaire de réaliser un dispositif décrit (<<fig-44,Figure 44>>). Avec une
+traction de 10 kg opérée sur la corde à l'aide d'un poids, on enregistre une
+déformation de la planchette devant le chevalet et derrière.
+
+[.text-center]
+[[fig-44]]
+image::fig-44.jpg[Figure 44, 600, scaledwidth="100%"]
+
+Le chevalet classique actuel donne une déformation plus ample pour la partie arrière
+de la table que pour le devant. Dans la réalité, cette action peut être encore plus
+accusée si un barrage transversal se trouve collé sous la table assez près devant ce
+chevalet. Dans ce cas, la partie arrière de la table est soumise à des mouvements
+de plus grande amplitude et travaille plus que le devant, puisque le chevalet prend
+appui sur la partie avant de la table plus rigide pour osciller et pivoter légèrement.
+
+Quand la guitare est terminée, cela peut se vérifier à l'aide de deux comparateurs
+disposés de chaque côté du chevalet. Lorsque les cordes sont tendues, on peut savoir
+quelle partie travaille davantage et en tirer des enseignements sur le fonctionnement
+(les différences vont du simple au double, voire plus).
+
+Avec le même dispositif décrit en <<fig-44,Figure 44>>, il est possible de mesurer et tracer la
+déformation qu'un chevalet plus étroit (17 millimètres) donne, comportant le
+même angle CDE et la même hauteur totale du sillet (en fait, le chevalet actuel
+sans sa partie arrière ou cordier). Si l'effet de torsion est localement plus fort,
+on enregistre finalement la même déformation générale, ou très légèrement
+supérieure. car l'effort nécesssaire avec un petit levier est plus important
+pour amener la planchette rigide à une déformation semblable à celle donnée par
+un chevalet normal de trent millimètres de large. Ceci compense cela.
+footnote:[On peut trouver d'autres veus sur le problème des chevalets dans le
+bulletin n 72 sur le luth de Charles Besnainou.]
+
+Le seul élément négatif sera que ce chevalet étroit risquera fort de se décoller s'il
+est employé.
+
+Par contre, sa légèreté pourrait être intéressante pour la spontanéité de
+l'instrument et l'établissement des fréquences élevées signalées par la corde.
+
+Le chevalet actuel n'est certainement pas arrivé à la fin de son évolution. On peut
+réaliser des chevalets asymétriques avec une plus forte prise sur la table côté graves,
+donc plus larges et plus lourds côté basses, qui permettraient des graves solides,
+et avec une partie plus étroite, plus fine côté aigus, qui favoriserait ces derniers.
+
+Encore faut-il pouvoir faire admettre cette modification par les guitaristes.
+
+Kasha, aux États-Unis, préconise même l'emploi de chevalets séparés pour les
+graves et les aigus, et produit ses guitares ainsi. On est amené à penser, mais avec
+réserve, que dans ce cas les résonances sympathiques sont atténuées et
+l'homogénéité de l'instrument difficile du côté des médiums.
+
+L'évolution continue...
+

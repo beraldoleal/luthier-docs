@@ -1,0 +1,45 @@
+= La Guitare I: Historique et Fonctionnement
+Daniel Friedrich; Emile Leipp
+Number 92, Juin 1977: GAM
+:version-label: Number
+:doctype: book
+:preface-title: Preface
+:toc: left
+:sectnums:
+:partnums:
+:front-cover-image: ../assets/imgs/cover.png
+:title-page:
+:imagesdir: ../assets/imgs
+:toclevels: 1
+
+ifeval::["{backend}" == "pdf" or "{backend}" == "epub3"]
+[colophon]
+= Colophon
+
+Periodique: 6 numéros annuels.  
+
+Imprimeur: Laboratoire de Mécanique de l'Université Paris VI  
+
+Directeur de La publication: M. le Professeur SIESTRUNCK  
+
+DIFFUSION: PSALTARELLE, 21 Rue de la Folie-Méricourt, 75011 Paris.  
+
+Tél. 807 80 64
+endif::[]
+
+include::preface.adoc[]
+
+include::partI/index.adoc[]
+include::partI/1.essaisurlevolution.adoc[]
+
+include::partII/index.adoc[]
+include::partII/2.systemetable.adoc[]
+include::partII/3.examendesbois.adoc[]
+include::partII/4.examenpieceboisresineux.adoc[]
+include::partII/5.notionsdeflexion.adoc[]
+include::partII/6.tablesetbarrages.adoc[]
+include::partII/7.lechevalet.adoc[]
+include::partII/8.lefond.adoc[]
+
+include::partIII/index.adoc[]
+include::partIII/1.temperament.adoc[]
