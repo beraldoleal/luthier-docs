@@ -25,14 +25,11 @@ repository.
 
 ### Available Downloads
 
-| Language | Format | Download Link |
-|----------|--------|---------------|
-| English  | PDF    | [Download PDF](./downloads/classical_guitar_en.pdf) |
-| English  | EPUB   | [Download EPUB](./downloads/classical_guitar_en.epub) |
-| English  | HTML   | [View HTML](./downloads/classical_guitar_en.html) |
-| French   | PDF    | [Download PDF](./downloads/classical_guitar_fr.pdf) |
-| French   | EPUB   | [Download EPUB](./downloads/classical_guitar_fr.epub) |
-| French   | HTML   | [View HTML](./downloads/classical_guitar_fr.html) |
+| Format | English | French |
+|--------|---------|--------|
+| PDF    | [PDF](https://github.com/beraldoleal/luthier-docs/releases/download/v1/Book_en.pdf) | [PDF](https://github.com/beraldoleal/luthier-docs/releases/download/v1/Book_fr.pdf) |
+| EPUB   | [EPUB](https://github.com/beraldoleal/luthier-docs/releases/download/v1/Book_en.epub) | [EPUB](https://github.com/beraldoleal/luthier-docs/releases/download/v1/Book_fr.epub) |
+| HTML   | [HTML](https://github.com/beraldoleal/luthier-docs/releases/download/v1/index_en.html) | [HTML](https://github.com/beraldoleal/luthier-docs/releases/download/v1/index_fr.html) |
 
 ### Building manually
 

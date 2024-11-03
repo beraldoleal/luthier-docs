@@ -1,0 +1,66 @@
+name: Build and Release Artifacts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'daniel-friedrich/laguitare/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+
+      - name: Install Asciidoctor and dependencies
+        run: |
+          gem install asciidoctor asciidoctor-pdf asciidoctor-epub3
+
+      - name: Build all formats
+        run: make all
+        working-directory: daniel-friedrich/laguitare/
+
+      - name: Determine the next tag version
+        id: tag_version
+        run: |
+            latest_tag=$(git tag --list 'v*' --sort=-v:refname | head -n 1)
+            if [ -z "$latest_tag" ]; then
+              next_tag="v1"
+            else
+              next_tag=v$(( ${latest_tag#v} + 1 ))
+            fi
+            echo "Next tag: $next_tag"
+            echo "::set-output name=next_tag::$next_tag"
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        with:
+          tag_name: ${{ steps.tag_version.outputs.next_tag }}
+          release_name: "Documentation Build - ${{ steps.tag_version.outputs.next_tag }}"
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload all documentation files
+        run: |
+          for file in daniel-friedrich/laguitare/build/*; do
+            echo "Uploading $file..."
+            gh release upload ${{ steps.tag_version.outputs.next_tag }} "$file" --repo "${GITHUB_REPOSITORY}" --clobber
+          done
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        shell: bash
