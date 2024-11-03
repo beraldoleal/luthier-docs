@@ -1,113 +1,103 @@
-== Le Chevalet
+== The Bridge
 
-Le chevalet transmet les vibrations de la corde à la table. C'est la dernière pièce que
-l'on colle lors de la construction. Depuis plus de cent ans, sa forme et sa structure
-se sont fixées pour la guitare destinée au jeu digital.
+The bridge transmits string vibrations to the soundboard. It is the last part glued
+during construction. For over a century, its shape and structure have been refined
+for guitars intended for fingerstyle playing.
 
-L'ancien chevalet des 16ème, 17ème et 18ème siècles était semblable à celui du
-luth, une simple pièce de bois, une petite barre collée sur laquelle étaient fixées
-les cordes. Il aurait dû s'appeler "cordier," puisque les cordes ne passaient plus à
-cheval dessus comme au 13ème siècle.
+The old bridge of the 16th, 17th, and 18th centuries resembled that of the lute—a
+simple piece of wood, a small glued bar to which the strings were attached. It should
+have been called the "tailpiece," as the strings no longer crossed over it as in the
+13th century.
 
-Le chevalet actuel, pour sa conception, a été engendré après de nombreux essais
-effectués dans toute l'Europe. Quelques schémas donneront une idée des
-principales étapes de son évolution (<<fig-41,Figure 41>>).
+The current bridge design emerged after numerous experiments across Europe.
+Some sketches will illustrate the main stages of its evolution (<<fig-41,Figure 41>>).
 
 [.text-center]
 [[fig-41]]
 image::fig-41.jpg[Figure 41, 600, scaledwidth="100%"]
 
-Le luthier français La Prévotte semble bien placé dans cette création collective,
-puisqu'avant 1856 il utilise un chevalet possédant les caractères modernes, c'est-à-dire
-l'adoption de deux parties distinctes pour sa structure (<<fig-42,Figure 42>>):
+The French luthier La Prévotte seems to be a notable contributor to this collective
+creation. Before 1856, he used a bridge with modern characteristics, namely, two
+distinct parts in its structure (<<fig-42,Figure 42>>):
 
 [.text-center]
 [[fig-42]]
 image::fig-42.jpg[Figure 42, 600, scaledwidth="100%"]
 
-- Partie A : nouvelle venue, qu'on peut nommer "chevalet" avec son sillet.
-- Partie B : qu'on peut appeler "cordier" par commodité, et qui est l'ancienne
-	barre simple commune aux luths et guitares. La partie A sert à délimiter la
-	longueur vibrante de la corde avec précision, et la hauteur de son sillet, en
-	venant s'insérer et se placer en dessous de la corde pour la pousser vers le
-	haut, va faire subir à la table une pression et une torsion avec la
-	combinaison des pièces A et B.
+- Part A: the new component, which can be called the "bridge" with its saddle.
+- Part B: which can be called the "tailpiece" for convenience, is the simple
+  bar common to both lutes and guitars. Part A precisely defines the vibrating
+  length of the string, and the height of its saddle, placed below the string
+  to lift it, applies pressure and torsion on the soundboard through the
+  combination of parts A and B.
 
-Il suffit de réunir ces deux pièces sur un seul socle pour en comprendre la réalité
-pratique de fonctionnement.
+Combining these two parts on a single base reveals their functional reality.
 
-Un élément apparaît immédiatement à l'observation : plus l'angle C.D.E.
-(<<fig-43,Figure 43>>) est fermé, plus l'effet de torsion est grand et plus la
-poussée de la corde est vigoureuse en D. On aura alors des basses avec de fortes
-amplitudes, profondes et bien timbrées si la table n'est pas trop rigide.
-C'était un des attraits de la guitare des années 1850 qui devenait plus grande
-de corps et présentait cette nouveauté d'avoir des basses vraiment profondes,
-graves et corsées.
+An immediate observation emerges: the more the angle C.D.E. (<<fig-43,Figure 43>>)
+is closed, the greater the torsion effect, and the stronger the string's pressure
+at D. This results in basses with deep, resonant amplitude if the soundboard is
+not too rigid. This was one of the appeals of guitars in the 1850s, which were
+larger-bodied and introduced genuinely deep, rich bass tones.
 
 [.text-center]
 [[fig-43]]
 image::fig-43.jpg[Figure 43, 600, scaledwidth="100%"]
 
-Le luthier peut faire varier cet angle s'il a décidé de travailler "épais" pour sa
-table d'harmonie et l'obliger à fonctionner par force.
+The luthier can alter this angle if they decide to work with a "thicker" soundboard
+and force it to operate under greater tension.
 
-Le chevalet actuel est fait en palissandre et pèse environ 18 grammes. Étant un
-barrage transversal de plus au milieu de la table, si on le fait trop rigide et trop
-lourd, en ébène par exemple, on constate un mauvais résultat sonore. L'inertie
-et la rigidité combinées suppriment une certaine indépendance entre le côté grave
-et le côté aigu de l'instrument, annulent certains modes vibratoires possibles de la
-table, et coupent donc une série de fréquences qui appauvrit l'instrument en timbre
-et en égalité de niveau sonore.
+Today’s bridge is made of rosewood and weighs about 18 grams. Being an additional
+cross-brace in the center of the soundboard, making it too rigid or heavy, such as
+in ebony, results in poor sound quality. The combined inertia and rigidity reduce
+independence between the instrument's bass and treble sides, cancel certain possible
+vibrational modes in the soundboard, and cut off a series of frequencies, reducing
+the instrument’s timbre and sound level consistency.
 
-Pour constater objectivement l'action exacte d'un type de chevalet, il est
-nécessaire de réaliser un dispositif décrit (<<fig-44,Figure 44>>). Avec une
-traction de 10 kg opérée sur la corde à l'aide d'un poids, on enregistre une
-déformation de la planchette devant le chevalet et derrière.
+To objectively observe the exact effect of a bridge type, one must use a device
+described in (<<fig-44,Figure 44>>). With a 10 kg pull applied to the string using a
+weight, one can record the deformation of the board in front of and behind the bridge.
 
 [.text-center]
 [[fig-44]]
 image::fig-44.jpg[Figure 44, 600, scaledwidth="100%"]
 
-Le chevalet classique actuel donne une déformation plus ample pour la partie arrière
-de la table que pour le devant. Dans la réalité, cette action peut être encore plus
-accusée si un barrage transversal se trouve collé sous la table assez près devant ce
-chevalet. Dans ce cas, la partie arrière de la table est soumise à des mouvements
-de plus grande amplitude et travaille plus que le devant, puisque le chevalet prend
-appui sur la partie avant de la table plus rigide pour osciller et pivoter légèrement.
+The current classical bridge causes greater deformation on the back of the soundboard
+than on the front. In reality, this effect can be even more pronounced if a transverse
+brace is glued beneath the soundboard near the front of the bridge. In this case, the
+back of the soundboard undergoes larger movements and works more than the front,
+since the bridge rests on the more rigid front part of the soundboard, allowing it to
+oscillate and pivot slightly.
 
-Quand la guitare est terminée, cela peut se vérifier à l'aide de deux comparateurs
-disposés de chaque côté du chevalet. Lorsque les cordes sont tendues, on peut savoir
-quelle partie travaille davantage et en tirer des enseignements sur le fonctionnement
-(les différences vont du simple au double, voire plus).
+When the guitar is finished, this can be verified with two dial indicators placed
+on each side of the bridge. When the strings are tightened, one can observe which
+part is more active, offering insights into functionality (differences can vary
+from simple to double, or even more).
 
-Avec le même dispositif décrit en <<fig-44,Figure 44>>, il est possible de mesurer et tracer la
-déformation qu'un chevalet plus étroit (17 millimètres) donne, comportant le
-même angle CDE et la même hauteur totale du sillet (en fait, le chevalet actuel
-sans sa partie arrière ou cordier). Si l'effet de torsion est localement plus fort,
-on enregistre finalement la même déformation générale, ou très légèrement
-supérieure. car l'effort nécesssaire avec un petit levier est plus important
-pour amener la planchette rigide à une déformation semblable à celle donnée par
-un chevalet normal de trent millimètres de large. Ceci compense cela.
-footnote:[On peut trouver d'autres veus sur le problème des chevalets dans le
-bulletin n 72 sur le luth de Charles Besnainou.]
+Using the same setup in <<fig-44,Figure 44>>, it’s possible to measure and plot the
+deformation that a narrower bridge (17 mm) produces, with the same angle CDE and
+total saddle height (essentially the current bridge without its tailpiece). If the
+torsion effect is stronger locally, the overall deformation is approximately the
+same, or very slightly greater, as the effort required with a smaller lever is
+greater to produce a deformation similar to that of a standard 30 mm bridge. This
+balances things out. footnote:[Other views on bridge issues can be found in Charles
+Besnainou's Bulletin No. 72 on the lute.]
 
-Le seul élément négatif sera que ce chevalet étroit risquera fort de se décoller s'il
-est employé.
+The only drawback is that this narrow bridge risks coming unglued when used.
 
-Par contre, sa légèreté pourrait être intéressante pour la spontanéité de
-l'instrument et l'établissement des fréquences élevées signalées par la corde.
+On the other hand, its lightness could be advantageous for instrument responsiveness
+and high frequencies conveyed by the string.
 
-Le chevalet actuel n'est certainement pas arrivé à la fin de son évolution. On peut
-réaliser des chevalets asymétriques avec une plus forte prise sur la table côté graves,
-donc plus larges et plus lourds côté basses, qui permettraient des graves solides,
-et avec une partie plus étroite, plus fine côté aigus, qui favoriserait ces derniers.
+The current bridge design has certainly not reached its final form. Asymmetric
+bridges can be made with a stronger hold on the bass side of the soundboard—wider
+and heavier on the bass side to yield solid low tones, while a narrower, thinner
+treble side could enhance treble response.
 
-Encore faut-il pouvoir faire admettre cette modification par les guitaristes.
+Convincing guitarists to accept this modification is another challenge.
 
-Kasha, aux États-Unis, préconise même l'emploi de chevalets séparés pour les
-graves et les aigus, et produit ses guitares ainsi. On est amené à penser, mais avec
-réserve, que dans ce cas les résonances sympathiques sont atténuées et
-l'homogénéité de l'instrument difficile du côté des médiums.
+In the United States, Kasha even recommends using separate bridges for bass and
+treble and builds his guitars this way. One might suspect, with caution, that in
+this case sympathetic resonances are reduced, and homogeneity in the midrange
+difficult to achieve.
 
-L'évolution continue...
+The evolution continues...
 

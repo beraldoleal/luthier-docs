@@ -1,225 +1,206 @@
-== Tables et Barrages
+== Soundboards and Bracing
 
-Pendant le 17ème et le 18ème siècle, les guitares avaient leurs tables
-simplement renforcées par une barre disposée de chaque côté de la rosace
-(<<fig-35-38,Figure 35>>). Exceptionnellement, et à l'imitation du luth, on plaçait une barre
-légère entre la rosace et le chevalet.
+During the 17th and 18th centuries, guitars had soundboards simply reinforced
+with a bar placed on each side of the rosette (<<fig-35-38,Figure 35>>).
+Occasionally, following the lute’s example, a light bar was added between the
+rosette and the bridge.
 
 [.text-center]
 [[fig-35-38]]
 image::fig-35-38.jpg[Figure 35-38, 600, scaledwidth="100%"]
 
-Vers la fin du 18ème siècle, quelques essais apparaissent en France. Marchai
-place une barre en biais entre la rosace et le chevalet (<<fig-35-38,Figure 36>>), mais la
-découverte capitale pour la guitare moderne semble avoir été faite en
-Andalousie à Cadix : Bénédit en 1788 et Pages en 1792 emploient déjà un
-dispositif de 5 nervures de bois (<<fig-35-38,Figure 37>>).
+Towards the end of the 18th century, some experiments appeared in France.
+Marchai placed a slanted bar between the rosette and the bridge (<<fig-35-38,Figure 36>>),
+but the crucial discovery for the modern guitar seems to have been made in
+Andalusia, in Cadiz: Bénédit in 1788 and Pages in 1792 already employed a
+structure with five wooden ribs (<<fig-35-38,Figure 37>>).
 
-Ils ont trouvé là un système de barrage révolutionnaire qui va différencier et
-séparer encore plus la sonorité de la guitare de celle du luth, lui donner son
-caractère que nous connaissons.
+They discovered a revolutionary bracing system that would further differentiate
+the guitar’s sound from that of the lute, giving it the distinctive character
+we recognize today.
 
-Antonio de Torres (1817 - 1892) a dû connaître les guitares de Pages renommées
-dans leur temps, et il a accentué le système en ajoutant deux nervures
-(<<fig-35-38,Figure 38>>), et en portant les dimensions à 35 ou 36 cm pour la
-largeur maximale de ses guitares, que l'on trouve vers 1860.
+Antonio de Torres (1817 - 1892) must have known the renowned guitars of Pages
+in his time, and he enhanced the system by adding two ribs (<<fig-35-38,Figure 38>>),
+expanding the width of his guitars to 35 or 36 cm around 1860.
 
-En faisant un peu de recherche, on peut s'apercevoir que ce barrage permet
-autant de rigidité, de solidité longitudinalement, et plus de souplesse
-transversalement #avec moins d'épaisseur#. Il suffit de coller trois nervures
-sur une planchette de résineux longue de quarante centimètres et épaisse de
-vingt six dixièmes de millimètre (<<fig-39,Figure 39>>), pour observer qu'il est
-nécessaire de prendre une planchette de 52 dixièmes d'épaisseur pour avoir la
-même flexion, la même résistance et passer de 46 grammes à 73 grammes
-footnote:[On observe le même résultat si les nervures sont prises dans la masse
-de la planchette (non collées)].
+A bit of research reveals that this bracing provides rigidity, longitudinal
+strength, and greater transverse flexibility #with less thickness#. By gluing
+three ribs onto a forty-centimeter-long, 2.6 mm thick piece of softwood
+(<<fig-39,Figure 39>>), one can observe that a board thickness of 5.2 mm would be
+required to achieve the same flexion, resistance, and go from 46 grams to
+73 grams footnote:[The same result is observed if the ribs are integrated into
+the board itself (not glued)].
 
 [.text-center]
 [[fig-39]]
 image::fig-39.jpg[Figure 39, 600, scaledwidth="100%"]
 
-Ce gain de poids considérable pour la table permet :
+This considerable weight reduction for the soundboard allows:
 
-- plus de spontanéité dans la réponse
-- plus de sensibilité
-- plus d'amplitude maximale (plus de graves)
-- plus de longueur de son, puisque les frottements internes sont moins
-  importants dans une épaisseur de bois réduite.
+- more spontaneity in response,
+- greater sensitivity,
+- increased maximum range (more bass),
+- and longer sustain, as there is less internal friction in a thinner wood.
 
-À partir de la manière d'Antonio de Torres, on a eu des basses très solides et un
-goût général pour ce type d'instrument qui a duré plus de cent ans. On observe
-depuis quelques années un léger mouvement en sens contraire. (Il faut garder en
-mémoire que la guitare s'est agrandie par les basses depuis la fin du 16ème
-siècle.)
+Following Antonio de Torres's method, guitars gained strong basses, sparking
+a lasting preference for this type of instrument for over a century. In recent
+years, however, there’s been a slight shift in the opposite direction.
+(Remember that the guitar has grown in bass range since the late 16th century.)
 
-Tous les luthiers savent faire des instruments dotés de graves généreux... Ce
-qui est difficile c'est de faire sur la même guitare des basses, des médiums et
-des aigus de qualité.
+All luthiers know how to make instruments with generous bass… The challenge
+lies in achieving quality bass, mid, and treble on the same guitar.
 
-=== Rôles d'un Barrage de Table Bien Étudié
+=== Roles of a Well-Designed Soundboard Bracing
 
-1. Permettre l'installation d'un grand nombre de modes vibratoires et amplifier
-   beaucoup des fréquences du signal très riche donné par la corde. La division
-   en secteurs, en parcelles de la surface vibrante, par un réseau de barrage
-   permet la création de modes vibratoires complexes qui n'ont pas lieu quand la
-   table est une simple plaque de bois footnote:[Voir mémoire de Savart dans la
-	 collection Encyclopédie Roret réeditée récemment. (Titre: Le Luthier).
-	 L'auteur parla des expériences sur les plaques vibrantes. (voir bibliographie)].
-2. Faire du beau son, bien caractérisé et intéressant.
-3. Ce barrage doit tenir longtemps mécaniquement, sous l'effet violent de la
-   torsion produite par les cordes.
-4. #Ne doit pas être trop rigide#. Cela donnerait un jeu, un toucher dur très
-   facilement. Le son serait sec, dépourvu de souplesse, de moelleux et de
-   graves.
-5. #Ne doit pas être trop souple# footnote:[La flexion de la table peut se
-mesurer -voir chapitre #Flexions#.] : cela donnerait un gros son court, grave et mat
-   avec un toucher très facile, mais des cordes qui "claquent" sous les doigts et
-   une émission pâteuse dans les traits rapides. L'instrument sera plus vite
-   saturé avec un jeu fort.
-6. Le barrage ne doit pas entraîner de réactions anarchiques au sein du système
-   "Manche-Table-Cordes."
-7. Il peut éventuellement être prévu susceptible de retouches, de repentir, d'ajustage
-   après essais.
-8. Le réseau de barrage peut limiter l'apparition de fentes de retrait. Fonction
-   non négligeable pour renforcer une pièce de bois telle que la table, qui se
-   trouve soumise à des tensions dues au séchage ou des relâchements dus à
-   l'humidité.
+1. Allows the setup of multiple vibrational modes, amplifying many of the
+   frequencies in the string's rich signal. Dividing the vibrating surface
+   into sectors or parcels with a bracing network enables the creation of
+   complex vibrational modes, unlike a simple wooden soundboard
+   footnote:[See Savart’s thesis in the recently republished Roret
+   Encyclopedia collection. (Title: The Luthier). The author discusses
+   experiments on vibrating plates. (see bibliography)].
+2. Produces a beautiful, distinctive, and interesting sound.
+3. The bracing must remain mechanically stable for a long time, under the
+   intense tension from the strings.
+4. #Should not be too rigid#. This would make the play feel too firm, with
+   a dry sound lacking flexibility, warmth, and bass.
+5. #Should not be too flexible# footnote:[The soundboard flexion can be
+   measured—see chapter #Flexion#.] as this would produce a strong but short
+   sound, low and dull, with easy playability but strings that "snap" under
+   the fingers and sluggish response in rapid passages. The instrument would
+   saturate quickly with strong playing.
+6. The bracing should not cause erratic reactions within the "Neck-Soundboard-Strings"
+   system.
+7. Ideally, the bracing should allow for adjustments, modifications, or fine-tuning
+   after testing.
+8. The bracing network can help prevent shrinkage cracks—a useful feature
+   for reinforcing the soundboard, which is subject to tension from drying or
+   relaxation from humidity.
 
-L'importance du réseau de barrage de table est longue à déterminer. Il est
-établi en fonction des bois mis en œuvre, et du but recherché. Les meilleurs
-résultats se tiennent souvent à la limite de résistance des bois, et ceci rend
-très précaire la longévité du système.
+The importance of the soundboard bracing network takes time to establish. It is
+crafted based on the woods used and the intended result. The best outcomes often
+lie near the wood's strength limit, making the system's longevity precarious.
 
-Les guitares actuelles ont peu de réserve de solidité de ce côté barrage et ne
-sont pas faites pour durer cent ans avec le même son.
+Modern guitars have little durability reserve on the bracing side and are not
+designed to maintain the same sound for a century.
 
-Mais il n'y a pas que le barrage qui conditionne la qualité du son émis. #La
-nature du bois même de la table#, de la plaque vibrante, est très #importante#
-et donnera pour commencer une couler au son, une certaine qualité spécifique,
-particulière.
+But it’s not just the bracing that determines sound quality. #The nature of
+the wood itself on the soundboard#, the vibrating plate, is very #important# and
+initially imparts a tone color, a specific quality, or unique character.
 
-Chaque bois, à l'intérieur d'une même espèce, a un don, une propriété qu'il faut
-trouver. Il peut être doué pour faire un son très chaleureux, moelleux avec
-beaucoup de caractère, mais assez sombre et donner de l'opacité dans les
-accords, avec plusieurs sons superposés.
+Each piece of wood within a species has unique properties to be discovered.
+One may produce a warm, rich sound with strong character but somewhat dark, making
+chords opaque when multiple tones overlap.
 
-Au contraire un autre arbre peut présenter des qualités de longueur de son, de
-clarté; avec du mordant du brillant qui déterminera une guitare plus apte à
-jouer des oeuvres de Bach, que celles de Turina ou Villa-Lobos.
+On the other hand, another tree might offer longer sustain, clarity, and a
+bright attack, making a guitar better suited for playing Bach rather than Turina
+or Villa-Lobos.
 
-La guitare à tout faire n'existant pas (on ne peut demander en même temps les
-qualités d'une "brune" et d'une "blonde") le luthier devra se résoudre à un
-compromis, ou vendre plusieurs guitares à ses clients aisés... ce qui est le cas
-pour les guitaristes renommés, assez souvent.
+Since there is no "one-size-fits-all" guitar (you can’t simultaneously have
+the qualities of a “brunette” and a “blonde”), the luthier must accept a
+compromise or sell multiple guitars to their affluent clients, as is often the
+case for well-known guitarists.
 
-Avec les corrections que peut apporter le barrage on peut modifier sensiblement
-et doser ces caractères différents (et faire preuve de maîtrise quand on en a
-l'ambition).
+With adjustments to the bracing, these distinct characteristics can be balanced
+and adjusted, showcasing mastery for those with the ambition.
 
-De toutes faćons notons  les vibrations de la corde diminuent plus ou moins
-vite pour trois raisons au moins.
+In any case, note that string vibrations diminish for at least three reasons:
 
-a) Opposition de la résistance de l'air aux mouvements de table.
+a) Air resistance against the soundboard's movements.
 
-b) Frottements internes de la table en mouvements (qui transforme l'énergie
-communiquée en chaleur).
+b) Internal friction within the soundboard as it moves (converting
+   transferred energy into heat).
 
-c) Frottements internes de la corde.
+c) Internal friction within the string.
 
+=== Woods Used
 
-=== Bois Employés
+Two types of softwoods are mainly favored by luthiers:
 
-Deux espèces de bois résineux retiennent principalement l'attention des
-luthiers:
+1. European Spruce (Picea Excelsa), growing at around one thousand meters
+   altitude, provides a solid texture wood.
+2. Canadian Western Red Cedar (Thuja Plicata), which grows in British
+   Columbia near the Pacific Ocean, offers a softer wood that is more fragile
+   to impact (less resilient) but is always more flexible and elastic along
+   the grain than spruce. Additionally, it is a less dampened wood.
 
-1. L'épicéa d'Europe (Picea Excelsa) poussant aux environs de mille mètres
-   d'altitude, donne un bois à la texture solide.
-2. Le Western Red Cedar Canadien (Tuya Plicata), qui croît en Colombie
-   Britannique près de l'océan Pacifique, fournit un bois plus tendre, plus
-   fragile aux chocs (bois peu résilient) mais qui présente l'intérêt d'être
-   toujours plus souple, plus élastique dans le sens de la longueur des fibres
-   que l'épicéa. C'est en outre un bois peu amorti.
+These two types of softwood, which vary widely from tree to tree, can be:
 
-Ces deux espèces de résineux, très différentes d'un arbre à l'autre, peuvent
-être :
+1. #Dampened or undampened# (This means that when a wooden panel labeled
+   "dampened" is lightly struck, the sound is #dull# and fades quickly,
+   absorbed by the material. When the wood is sonorous, "undampened," the
+   impact sound is clear and sustained).
+2. Heavy or light.
+3. Fibrous or with straight grain.
+4. Strong (like steel) or weak (like copper) in texture.
+5. The grain may be straight, parallel, or slanted.
+6. The wood can be elastic or rigid.
 
-1. #Amortis ou non# (Cela signifie que quand on frappe légèrement une plaque
-   de bois qualifiée d'"amortie," le son du choc est #mat# et disparaît très
-   rapidement, absorbé par la matière. Quand le bois est sonore, "non amorti,"
-   le son ou le choc de la percussion rend un son clair et long).
-2. Lourds ou légers.
-3. Fibreux ou francs de fil.
-4. De texture forte (comme l'acier) ou faible (comme le cuivre).
-5. Le fil du bois peut être bien droit, parallèle, ou en biais.
-6. Le bois peut être élastique ou rigide.
+Let’s examine the expected results of #dampened, flexible, and light#
+softwood.
 
-Examinons ce qu'on peut attendre d'un bois de table #Amorti, souple et léger#
-(tendre et mou).
+Without correction from the bracing, achieving a clear, responsive, and long
+sound guitar would be challenging. The sound would be rather round, dark,
+with short sustain, making it easy to play but quick to saturate.
 
-Sans correction par le barrage on aura beaucoup de difficultés à réaliser une
-guitare claire, spontanée, nerveuse dotée d'un son long. Ce sera plutôt rond et
-mat, sombre avec un son court. La guitare sera facile à jouer mais vite saturée.
+A heavy and very hard soundboard wood would tend to produce a hard, dry,
+metallic sound with weak bass harmonics, lacking warmth and with a stiff
+response.
 
-Un bois de table lourd et très dur donnera volontiers un son dur, sec,
-métallique, avec des harmoniques graves, faibles. Le résultat manquera de
-moelleux. Le toucher sera difficile, le son sera raide et peu sensible.
+The "ideal" wood would fall between these two extremes for most luthiers.
 
-Le bois "idéal" se situera entre les deus extrêmes pour bien des luthiers.
+It’s also noted that certain conifers have well-bound, very solid fibers
+(like steel).
 
-On constate également que certains cônifères ont les "fibres" bien accrochées,
-très solides (comme de l'acier).
+After ten years of use, there’s little deformation, and the sound remains
+well-defined and vigorous.
 
-Après dix ans d'usage, on voit peu de déformations et le son est resté bien
-timbré, vigourex.
+In other woods of the same species, the material loosens over time, and the
+instrument becomes less or unevenly resonant. The central part of the
+soundboard may become completely inactive, stressed, and "worn out."
 
-D'autres bois de même espèce ont laché prise depuis longtemps et l'instrument ne
-présente plus ou moins timbrées. La partie centrale de la table étant
-complètement neutralisé, forcée, et "à genoux".
+A rough estimate of wood’s resistance to deformation can be made by keeping
+a sample board slightly bent in the middle, with its two ends resting on a
+small block.
 
-Il est possible de se faire une idée de la résistance du bois à la déformation
-en maintenant une plachette-échantillon pliée légèrement en son milieu, ses deux
-extrêmités reposant sur un petit tasseau.
-
-Au bout d'une année on desserre le dispositif et la planchette revient bien
-droite ou pas (<<fig-40,Figure 40>>). On peut également faire une seule guitare avec ce bois
-et l'obverver au bout d'une année.
+After a year, the setup can be loosened to see if the board straightens
+again or not (<<fig-40,Figure 40>>). Alternatively, one could make a single guitar
+with this wood and observe it over a year.
 
 [.text-center]
 [[fig-40]]
 image::fig-40.jpg[Figure 40, 600, scaledwidth="100%"]
 
-Les fibres du bois bien parallèles à l'épaisseur de la table favorisent la bonne
-tenue dans le temps. Quand le fil est tranché, en biais, la planchette est peu
-résistant dans le sens de la longueur et des déformations importantes
-apparaissent s'il n'y a pas eu correction avec le barrage ou une épaisseur plus
-forte.
+Wood fibers aligned parallel to the thickness of the soundboard contribute to
+durability over time. When the grain is slanted, the board is less resistant
+along its length, and significant deformations occur without correction from
+bracing or additional thickness.
 
-Le problème pour le constructeurs qui se veut créateur est de contrôler toutes
-ces données que nous venons d'apercevoir, et de les intégrer progressivement
-dans ses connaissances.
+The challenge for a builder who aspires to create is to control all the data
+presented here and gradually integrate it into their knowledge.
 
-La conception artistique d'un instrument est la partie la plus délicate avec la
-maîtrise qu'elle demande et les nombreuses contradictions qu'elle implique.
-C'est un choix perpétuel qui occasionne bien des angoisses.
+The artistic conception of an instrument is the most delicate part, requiring
+skill and involving many contradictions. It is a continuous choice that can
+cause much anxiety.
 
-De choix en choix l'instrument s'améliore au fur et à mesure que l'on connaît
-davantage les bois dont on dispose... mais les obstacles sont très nombreux.
+With each choice, the instrument improves as one becomes more familiar with
+the available woods… but the obstacles are numerous.
 
-Voici une #contradiction irritante#.
+Here is an #irritating contradiction#.
 
-Pour les tables, si l'on veut un son avec une forte personnalité, du caractère,
-de la richesse il faut prendre un bois assez dur et rigide dans les deux sens,
-qui donnera des pointes de résonances très marquées en théorie.
+For soundboards, if you want a sound with strong personality, character, and
+richness, you need a relatively hard and rigid wood in both directions, which
+theoretically produces sharp resonance peaks.
 
-Par contre ce sera un bois contraire, #amorti# qui donnera une réponse homogène,
-une égalité de niveau sonore.
+However, it will be a contrasting wood, #dampened#, that offers a homogeneous
+response with equal sound level.
 
-Comme il faudrait un livre entier pour traiter des problèmes que le barrage et
-tables posent, pour terminer ce chapitre inscrivons une règle d'or:
+As a full book would be required to discuss the problems of bracing and
+soundboards, let’s conclude this chapter with a golden rule:
 
 [quote]
-On n'obtient pas de son complexe, riche, personnel avec du caractère, sans un
-"barrage" complexe et personnel, réalisé sur une table très "choisie".
+A complex, rich, personal sound with character cannot be achieved without a
+complex and unique bracing on a carefully selected soundboard.
 
-C'est l'un des secret.s
+This is one of the secrets.
 

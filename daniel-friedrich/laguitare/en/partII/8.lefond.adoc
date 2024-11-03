@@ -1,310 +1,266 @@
-== Le Fond - Les Éclisses
+== The Back - The Sides
 
-=== Considérations Générales
+=== General Considerations
 
-On peut constater que le poids général de l'instrument a une influence sur sa
-sonorité. Quand la guitare est lourde, le bruit d'attaque de la corde (causé par
-le frottement du doigt) est moins perceptible que sur une guitare très légère. Le
-son naît différemment, avec un bruit mat très atténué, et semble plus
-cristallin. Le phrasé du guitariste en devient plus précis dans les traits
-rapides.
+The overall weight of the instrument can influence its sound. When a guitar is
+heavy, the initial noise from the string attack (caused by finger friction) is less
+noticeable than on a very light guitar. The sound emerges differently, with a dull,
+muted attack, resulting in a more crystalline tone. This allows for more precise
+phrasing during fast passages.
 
-L'instrument plus lourd possède un son plus long en règle générale et sa
-réponse est meilleure dans les registres aigus, l'ensemble est plus brillant.
+A heavier instrument generally has a longer sustain and responds better in higher
+registers, producing a brighter overall tone.
 
-Pour arriver à cette fin, les luthiers contemporains ont utilisé des bois lourds ou
-donné plus d'épaisseur aux pièces constituant leurs instruments.
+To achieve this, modern luthiers have used heavier woods or increased the thickness
+of the instrument’s components.
 
-Si Jean Voboam en 1706 utilise déjà un bois très exotique du type "bois de Violette" 
-très fin et dense, c'est à notre sens par-souci décoratif, mais à la fin du dix-huitième 
-siècle quand Pages en Andalousie emploie du palissandre pour ses fonds on peut penser 
-qu'il a fait quelques observations concernant la sonorité.
+While Jean Voboam in 1706 already used an exotic wood like "violet wood" that was
+dense and fine, it appears this choice was decorative. By the late eighteenth
+century, however, when Pages in Andalusia used rosewood for his backs, he may have
+been observing its effect on sound.
 
-Peu à peu ce bois sera reconnu comme donnant les meilleurs résultats et il faut
-noter que toutes les tentatives pour en utiliser un autre ont été abandonnées
-invariablement. Antonio de Torres a essayé souvent l'érable au siècle dernier,
-Francisco Simplicio aimait beaucoup l'acajou de Cuba dans le premier tiers de ce
-siècle, Ignacio Fleta plus récemment fit une guitare en Erable onde vers 1958;
-et nous avons essayé personnellement  l'Amarante, le Citronnier de Ceyian, le
-Cyprès, l'Acajou de Cuba.
+Gradually, this wood was recognized for yielding the best results, and every
+attempt to substitute another wood was invariably abandoned. Antonio de Torres
+often tried maple in the last century, Francisco Simplicio preferred Cuban mahogany
+in the first third of this century, Ignacio Fleta more recently crafted a guitar
+in flamed maple around 1958; and I have personally experimented with Amaranth,
+Ceylon Lemonwood, Cypress, and Cuban Mahogany.
 
-Qu'il soit palissandre des Indes, de Madagascar, du Brésil, ce bois confère à la
-guitare une voix noble, bien timbrée, corsée, pleine et lui donne sa qualité, sa
-personnalité de guitare classique.
+Whether it’s rosewood from India, Madagascar, or Brazil, this wood gives the guitar
+a noble voice, well-rounded, full-bodied, and endows it with its quality and
+character as a classical guitar.
 
-Ces guitares sont beaucoup plus lourdes actuellement que voici quinze ans, environ de 
-1650 grammes à 1850 grammes. Les guitaristes très marqués par les conceptions légères 
-d'Antonio de Torres, Manuel Ramirez, Francisco Simplicio ont eu beaucoup de mal à 
-reconnaître les qualités d'un instrument plus lourd.
+These guitars are currently much heavier than those made fifteen years ago, weighing
+between 1650 grams to 1850 grams. Guitarists, accustomed to the lightweight designs
+of Antonio de Torres, Manuel Ramirez, and Francisco Simplicio, initially struggled
+to appreciate the qualities of a heavier instrument.
 
-Celui ci a été rejeté et on lui opposait régulièrement la "vieille guitare" sans
-laquelle il n'y avait pas de carrière possible. Cet état d'esprit a complètement
-disparu et les concertistes jouant sur des guitares de plus de dix ans sont
-rares actuellement.
+This style was initially rejected, with proponents of the "old guitar" arguing that
+one couldn’t have a career without it. This mindset has since vanished, and it is now
+rare to find concert guitarists performing on guitars over ten years old.
 
-Pour la construction, deux possibilités extrêmes sont à signaler:
+In construction, two extreme approaches are worth noting:
 
-1. Faire des éclisses et un fond mince peu barré qui donneront du grave, du moelleux, 
-   des basses fortes, des attaques très audibles, un son court et mat éventuellement 
-   et un peu épais.
+1. Making thin sides and a thin, lightly-braced back, yielding deep basses, warmth,
+   strong bass response, a noticeable attack, and a potentially short, muted tone.
+2. Or making a thicker back (above three hundred grams), more heavily braced, with
+   thick, heavy sides, producing more brilliance, a metallic timbre, and longer
+   sustain with moderate bass response.
 
-2. Ou faire un fond plus épais (au dessus de trois cent grammes), barré plus fortement, 
-   avec des éclisses lourdes et épaisses qui donneront plus de brillant, voir un timbre 
-   métallique, et un son plus long avec des graves modérés.
+=== The Sides
 
-=== Les Éclisses
+The sides play an important role, as their vibrating surface area is roughly equal
+to that of the back. Additionally, their height determines the resonator cavity
+volume of the guitar body, providing the instrument’s "body" or resonance. The natural
+frequency of the sides is high due to their curvature.
 
-Leur rôle n'est pas négligeable puisque leur surface vibrante est sensiblement
-égale à celle du fond. De plus, leur hauteur conditionne le volume de la cavité
-du résonateur qu'est la caisse de la guitare, donnant du "coffre" ou non à
-l'instrument. La fréquence propre des éclisses est élevée du fait de leur
-cintrage.
+Antonio de Torres's experiment, which involved constructing a guitar with cardboard
+sides (the guitar is preserved at the Conservatory of Barcelona Museum), may not have
+been fully interpreted by its creator, who reportedly stated that "only the soundboard
+played a significant role, and the sides didn’t matter since they could be made of
+cardboard." It’s possible to say that this instrument sounded like a guitar with
+#cardboard sides# of varying rigidity, thereby influencing part of its response.
 
-L'expérience d'Antonio de Torres consistant à réaliser une guitare avec des
-éclisses en carton (guitare conservée au musée du Conservatoire de Barcelone)
-n'a peut être pas été interprété complètement par son auteur qui déclarait,
-parait-il, que "seule la table avait un rôle important et que les éclisses ne
-servaient à rien puisqu'on pouvait les faire en carton l". Il est possible de
-dire que cet instrument sonnait comme une guitare comportant des éclisses en
-#carton plus ou moins dur# conditionnant par là une partie de sa réponse.
+=== The Back
 
-=== Le Fond
+The back can serve three main functions:
 
-On peut lui donner trois fonctions définies :
+1. With its bracing, it firmly supports the neck heel, preventing it from tipping
+   under the tension of the strings (40 to 50 kilograms).
+2. Braced with three or four wooden bars across, the back is also a multi-resonator,
+   resonant across numerous frequencies.
+3. The back acts as a sound reflector within the acoustic chamber formed by the
+   guitar body.
 
-1. Le fond avec son barrage maintient plus ou moins vigoureusement le talon
-   du manche et l'empêche de basculer sous la tension des cordes (40 à 50
-   kilogrammes).
-2. Le fond, qui est barré en travers de trois ou quatre barres de bois, est
-   également un résonateur multiple, doué de résonance pour de nombreuses
-   fréquences.
-3. Le fond est aussi un réflecteur du son dans l'enceinte acoustique constituée
-   par la caisse de l'instrument.
+It should be noted that the thicker the back, the higher its natural frequencies and
+vibrational modes, favoring higher tones.
 
-On peut noter que plus il est épais plus ses fréquences propres, ses modes
-vibratoires sont élevés. Il favorise alors naturellement les sons vers les
-aigus.
+The more numerous and higher the bracing bars that divide it into sectors, the more
+high frequencies can find resonance within it.
 
-Plus nombreuses et hautes sont les barres de bois qui le divise en secteurs,
-plus les fréquences élevées peuvent y trouver une résonance également.
+=== Resonator
 
-=== Résonateur
+This can be verified with a hollow glass tube about 25 centimeters long and 5 to 7 mm
+in diameter, which acts as a frequency generator. Simply place one end of the tube
+(with a small wooden peg) on the guitar’s back and hold the upper end between the thumb
+and two fingers like a pencil. Moisten the fingers with vinegar water, then quickly slide
+them along the tube, varying pressure to produce a "vibrating plate" effect on a specific
+section of the back, emitting a distinct tone unique to that section.
 
-Ceci se vérifie à l'aide d'un tube en verre creux de 25 centimètres de long (environ) 
-et de 5 à 7 mm de diamètre qui fait office de générateur de fréquences. II suffit de 
-poser verticalement l'extrémité du tube (garni d'une petite cheville de bois) sur le 
-fond de la guitare et de serrer légèrement entre le pouce et deux doigts comme un 
-crayon, le haut du tube. En prenant soin de mouiller préalablement les trois doigts 
-d'un peu d'eau vinaigrée, on fait alors glisser les trois doigts le long du tube d'un 
-mouvement rapide, ce qui en serrant plus ou moins fort produit une excitation de la 
-"plaque vibrante" d'un secteur déterminé du fond et l'émission d'un son particulier, 
-spécifique à ce secteur.
+By moving the contact point on the back, various frequencies emerge. If the experiment is
+performed on a guitar with strings, each sound, each frequency produced by the tube
+induces sympathetic resonances and high harmonics from the strings. This suggests that if
+one vibrates a string with a finger, the signal with its harmonics will find amplification
+and resonance in the various back sections, confirming its secondary role as a versatile
+resonator.
 
-En déplaçant le point de contact du tube, de nombreuses fréquences apparaissent. Si 
-l'expérience est faite sur une guitare munie de ses cordes, chaque son, chaque 
-fréquence suscitée par le tube détermine l'apparition de résonances sympathiques, 
-d'harmoniques élevés produits par les cordes, qui peuvent conduire à penser que le 
-phénomène est réversible et que si l'on met une corde en vibration avec le doigt, le 
-signal produit avec ses harmoniques vont trouver des possibilités d'amplification et 
-de résonance dans les différents secteurs du fond, confirmant celui-ci dans son second 
-rôle de résonateur polyvalent.
+Vibrations can be measured at a specific point on the back when a string is played open.
+A hundredth-millimeter dial gauge reveals variations that can be substantial: 2 to 3
+hundredths of a millimeter for the low E and 4 to 5 hundredths for the D, indicating the
+back’s preference for certain frequencies.
 
-Il est facile de mesurer en un point donné du fond l'ampleur de ses vibrations quand 
-on excite une ou l'autre des cordes à vide. Le comparateur au centième de millimètre 
-donne alors des variations qui peuvent être importantes : 2 à 3 centièmes de 
-millimètre pour le mi grave et 4 à 5 centièmes pour le ré - montrant par là les 
-préférences du fond pour certaines fréquences.
+=== Reflector
 
-=== Réflecteur
+The back also acts as a reflector, or a "rebounder" as some builders say. The internal
+soundwave produced by the soundboard upon string release (a series of compressions)
+encounters a surface that’s variably rigid, polished, or varnished on the inside of the
+back. These planar waves exit, slightly dampened or not, through the rosette, which acts
+like a speaker centered on the soundboard, contributing to the overall sound produced by
+the entire vibrating surface of the instrument.
+footnote:[These waves emitted by the rosette can be visualized by placing a light sheet of
+paper over the soundboard, almost completely blocking the opening. When plucking a low
+string, the paper vibrates.]
 
-Le fond est aussi un réflecteur, un "repoussoir" selon l'expression de 
-certains constructeurs. En effet, l'onde sonore intérieure produite par la table au 
-lâcher de la corde, (une série de compression) va trouver une surface plus ou moins 
-rigide, plus ou moins polie, vernie, sur la partie intérieure du fond et ces trains 
-d'ondes planes vont sortir légèrement amortis ou non par l'ouverture de la rosé qui 
-se comporte dans ce cas comme un haut-parleur placé au milieu de la table, qui 
-concourt à la formation du son global produit par l'instrument qui vibre de toute sa 
-surface par ailleurs footnote:[Il est possible de visualiser ces ondes émises par la rosé en plaçant une euille de papier léger sur la table, qui obture presque complètement l'ouverture . En pinçant une corde basse le papier frémit.].
+In the early twentieth century, some luthiers even conceived of placing an "acoustic cone"
+flaring inward, attached around the rosette beneath the soundboard. This device was
+intended to "capture" all waves reflecting off the back and direct them more easily
+toward the exit.
 
-Quelques luthiers du premier tiers de ce siècle avaient même imaginé de placer un 
-"cornet acoustique" évasé vers l'intérieur, scellé autour de la rosace en dessous de 
-la table. Ce dispositif était sensé "ramasser" toutes les ondes qui se réfléchissaient 
-sur le fond et les diriger plus aisément vers la sortie.
+This system was abandoned, suggesting that the experiment was inconclusive.
 
-Ce système n'a pas été conservé et il faut croire que l'expérience n'a pas été
-concluante.
+=== Remark
 
-=== Remarque
+Note: The guitar vibrates across all its parts but is primarily directional. An observer
+directly facing the instrument hears a louder sound than one to the side. As noted, the
+back and its first brace support the neck heel. This part of the back vibrates more
+intensely under the leverage exerted by the neck, oscillating with the string frequency
+(in a simplified model). This can be easily tested by placing a hand over this area
+immediately after plucking a string; one can observe the disappearance of certain
+harmonics, which return when the hand is lifted. This is especially true if the back is
+flexible, lightly braced, and at the low string frequency.
 
-Remarque: La guitare vibre de toutes ses pièces mais elle est surtout directionnelle. 
-Un auditeur placé face à l'instrument entend un son plus fort que celui placé de côté. 
-Nous avons vu que le fond avec sa première barre maintient le talon du manche. Cette 
-partie du fond est amenée à vibrer plus intensément sous l'effet de levier que produit 
-le manche tiré alternativement et selon la fréquence donnée par la corde (en 
-schématisant le phénomène). On peut vérifier ceci facilement en appliquant la main dès 
-que la corde est ébranlée, sur cet endroit, et constater alors la disparition d'un ou 
-plusieurs harmoniques et leur retour si la main est enlevée. Cela d'autant plus que le 
-fond est souple, peu barré et la fréquence de la corde grave.
+Such observations led Aguado in the last century to design a "Tripod" that allowed the
+guitar to remain free and not pressed against the player, enabling it to vibrate freely
+(see cover).
 
-Ces observations avaient conduit Aguado au siècle dernier à concevoir un dispositif 
-appelé "Tripode" qui permettait de ne pas serrer et appuyer la guitare contre 
-l'instrumentiste et de laisser la guitare vibrer librement (voir couverture).
+The neck with its heel also directly influences the back when it’s lightly braced and
+flexible; the back alternates tension and relaxation under the influence of the vibrating
+string. Each oscillation of the string corresponds to increased tension at the ends,
+causing the back to stretch and flatten if it’s curved.
 
-Le levier que représente le manche avec son talon, produit encore une action directe 
-sur le fond quand il est peu barré et souple ; il tend le fond alternativement sous 
-l'impulsion de la corde qui vibre. À chaque ventre que fait la corde correspond une 
-surtension à ses extrémités qui entraîne une élongation du fond s'il est galbé, qui tend 
-alors à s'aplatir.
+For a low E note, around 80 hertz, there would be about 160 of these movements per second,
+producing a vibration an octave above the fundamental, creating a strong "second" harmonic,
+noticeable on thin-backed guitars.
 
-Pour une note mi grave, 80 hertz environ, on aura donc cent soixante mouvements de ce 
-genre par seconde qui produiront une vibration à l'octave au-dessus du fondamental, 
-d'où un harmonique "deux" très fort, que l'on constate sur les guitares à fond mince. 
+Theoretically, if the soundboard section in front of the bridge
+footnote:[The bridge, depending on the internal bracing pattern of the soundboard, may
+activate more either in front or behind its position.] is moved by the same oscillation
+and increased tension of the vibrating string, its inward movement into the guitar will
+coincide with an opposite movement of the back lowering. Together, these movements create
+a train of strong amplitude waves, yielding an even stronger second harmonic, resulting
+in rich, deep bass tones.
 
-Théoriquement, si par ailleurs la partie de la table devant le chevalet
-footnote:[Le chevalet, selon le réseau du barrage intérieur de la table, peut solliciter 
-davantage le côté devant ou le côté derrière de la table où il est situé.] est sollicitée 
-par le même ventre et la même surtension qu'opère la corde en vibrant, son déplacement 
-vers l'intérieur de la guitare va créer en même temps un mouvement inverse de celui du 
-fond qui s'abaisse de son côté. Les deux mouvements conjugués vont établir un train 
-d'ondes de fortes amplitudes donnant un harmonique deux encore plus fort et par 
-conséquent du grave bien timbré, profond.
+However, if the soundboard section behind the bridge is more active, its outward movement
+may counteract the back's inward movement, potentially canceling out these effects. This
+could explain the presence of poorly toned bass on light, thin-structured guitars that
+shouldn’t exhibit such a deficiency.
 
-Mais si c'est la partie de la table située derrière le chevalet qui est la plus
-active, son déplacement vers l'extérieur sera compensé par le mouvement du fond
-vers l'intérieur et les deux mouvements pourront s'annuler éventuellement ; ce
-qui peut expliquer la présence de basses mal timbrées sur des guitares légères,
-de structure mince qui devraient ne pas avoir de déficience de ce côté.
+In reality, all vibrational states are possible, overlapping, and adapting to their
+resonator according to the pitch, yielding a satisfactory or unsatisfactory sense of
+homogeneity and level equality. Among the various challenges facing the luthier—
+balancing the neck, soundboard, back, sides, and harmonizing these parts—years of
+observation are necessary, and the situations remain complex and often contradictory.
+Yet, as these insights develop, the experimental builder and creator gain satisfaction.
 
-Dans la réalité, toutes les situations vibratoires sont possibles, se
-superposent et, selon la hauteur de la note, s'accommodent plus ou moins bien de
-leur résonateur, d'où une sensation d'homogénéité et d'égalité de niveau
-satisfaisante ou non. Entre les divers problèmes qui s'offrent au luthier, au
-niveau du manche, de la table, du fond, des éclisses et de la bonne entente de
-toutes ces pièces couplées, réunies entre elles, de nombreuses années
-d'observations sont nécessaires et les situations sont toujours complexes et
-contradictoires souvent, mais quand les réponses sont en bonne voie de
-formation, l'expérimentateur et créateur en tire des satisfactions.
+These satisfactions are limited, as new challenges emerge as control and knowledge advance.
 
-Satisfactions limitées car à mesure que l'on contrôle et que l'on avance
-apparaissent d'autres problèmes.
+To provide precise insights regarding the back and sides, we conducted and recorded a
+series of experiments.
 
-Pour apporter des éléments de réponse précis à propos du fond et des éclisses
-nous avons réalisé et enregistré une série d'expériences.
+=== Description of Experiments (and Luthier’s Comments)
 
-=== Description des expériences (et commentaires du luthier)
+To this end, we constructed a guitar with a molded plywood back, curved in three layers
+(three plies), two rosewood veneers surrounding a core ply of eighteen-tenths of a
+millimeter. The total thickness was twenty-eight-tenths of a millimeter, with a maximum
+arch height of nineteen millimeters and weighing 272 grams. This back #was not braced#
+and constituted experiment number one.
 
-Nous avons construit à cet effet une guitare dont le fond était en contreplaqué
-moulé et galbé en trois épaisseurs (trois plis), deux épaisseurs de placage de
-palissandre autour d'un contreplaqué épais de dix-huit dixièmes de millimètre.
-L'épaisseur totale était de vingt-huit dixièmes de millimètre. La hauteur
-maximale de la voûte était de dix-neuf millimètres, le poids de 272 gr. Ce fond
-#ne comportait pas de barrage# et constituait l'expérience numéro un.
+==== Experiment 1
 
-==== Expérience 1
+This guitar was easy to play due to the high flexibility of the back. It featured deep,
+strong basses due to the low natural frequency of the back as a resonator. However, the
+midrange and treble lacked timbre and interest, with limited homogeneity in tone and
+sound level. The last three high notes on the first string were weak.
 
-Cette guitare était facile à jouer du fait de la très grande souplesse du fond.
-Elle était dotée de fortes basses profondes, occasionnées par la basse fréquence
-propre du fond en tant que résonateur. Par contre, les médiums et les aigus
-étaient peu timbrés et sans intérêt, avec peu d'homogénéité dans le timbre et
-le niveau sonore. Les trois dernières notes aigües étaient pauvres sur la
-chanterelle.
+==== Experiment 2
 
-==== Expérience 2
+On the same guitar, #the rosette was completely blocked# with a #foam rubber plug#.
 
-Sur la même guitare, #on obture complètement la rose# avec un #tampon de
-caoutchouc mousse#.
+The instrument produced only part of its usual sound. The soundboard was constrained by
+the air trapped inside, which coupled the back to the soundboard. The sound was very short,
+muted, and veiled, with thin basses.
 
-L'instrument émet une partie du son habituel seulement. La table est freinée
-dans ses mouvements par l'air emprisonné à l'intérieur, ce qui tend à coupler le
-fond avec la table. Le son est très court, très amorti, et très voilé, les
-basses sont maigres.
+==== Experiment 3
 
-==== Expérience 3
+With the rosette open again, #an opening was made in the back identical to the rosette's#
+(87 millimeters) at the widest point.
 
-La rose étant rendue libre #on pratique une ouverture dans le fond semblable à
-celle de la rose# (87 millimètres) au milieu de la plus grande largeur.
+The basses lost their deep timbre, and the sound became flat and generally poor. The
+vibrational mode of the back changed due to the opening. Part of the sound dispersed from
+the rear (making the instrument less directional), and the sound chamber lost its
+resonance role, with the rosette emitting very little, it seems.
 
-Les basses perdent alors complètement leur timbre grave au départ, le son
-devient plat et pauvre en général. Le mode vibratoire du fond est changé du fait
-de l'ouverture. Une partie du son passe par derrière et de disperse
-(l'instrument est moins directionnel); le volume d'air de la caisse perd son
-rôle, la rose émet très peu semble-t-il.
+==== Experiment 4
 
-==== Expérience 4
+#The rosette was closed again, leaving only the back opening#.
 
-#On rebouche la rose en ne gardant que l'ouverture du fond#.
+The guitar performed better, with the "speaker" emitting bass frequencies from the
+cavity more effectively. The treble appeared less affected.
 
-La guitare fonctionne mieux, le "haut parleur" émet par derrière les séries de
-compression, des fréquences graves de la cavité ,qui fonctionne mieux . Les
-aigus semblent moins souffrir.
+==== Experiment 5
 
-==== Expérience 5
+The first back was removed and replaced with a very heavy back (braced with three mahogany
+bars), consisting of two glued layers of different woods. The first, rosewood, weighed
+280 grams, and the second, mahogany, weighed 155 grams on top, making a total weight of
+435 grams without bracing. The playable guitar weighed 1920 grams.
 
-On enlève le premier fond collé et celui-ci est remplacé par un fond très lourd
-(et barré de trois barres d'acajou), constitué de deux épaisseurs collées de
-bois différents. La première en palissandre pesant 280 grammes, la seconde en
-acajou pesant 155 grammes et placée au dessus, réalisant un poids total de 435
-gr sans les barrages. La guitare pèse en état de fonctionner 1920 gr.
+The sound was dry, rigid, rich but lacking warmth, and difficult to play as the neck was
+immobilized by the thick, braced back. The neck heel’s direct action, stretching the
+slightly curved back, was nullified by the rigidity. As a resonator, it favored higher
+frequencies.
 
-Le son est alors sec, sans souplesse, riche mais manquant de moelleux, le jeu
-est difficile car le manche est totalement immobilisé par ce fond épais et
-barré. L'action directe du talon de manche qui cherche à étirer et tendre le
-fond légèrement galbé est nulle du fait de sa rigidité. Celui-ci, comme
-résonateur, favorise des fréquences plus élevées.
+==== Experiment 6
 
-==== Expérience 6
+The top mahogany layer was planed down over the wide part of the back (<<fig-45,Figure 45>>),
+reducing the weight by 90 grams. The guitar now weighed 1830 grams. The sound improved,
+gaining warmth, and playability seemed easier. The regular rosewood back, freed from the
+extra mahogany thickness on its wider part, favored lower frequencies again, producing a
+richer, warmer tone. The balance between bass and treble was satisfactory. This was the
+best result of the test series, though the last three notes remained weak.
 
-L'épaisseur d'acajou superficielle est rabotée sur toute la partie large du fond
-(<<fig-45,Figure 45>>) ce qui représente 90 grammes de bois en moins. Sur un
-poids total de 1830 grammes pour la guitare. Le son est meilleur, le moelleux
-apparaît, le toucher semble plus aisé. Le fond normal de palissandre, débarrassé
-d'une sur-épaisseur d'acajou dans sa partie large, favorise de nouveau des
-fréquences plus basses et donne un timbre plus intéressant, plus chaleureux.
-L'équilibre entre basses et aigus est satisfaisant. C'est le meilleur résultat
-de toute la série d'essais mais les trois dernières notes sont toujours mal
-timbrées et faibles.
-
-[.text-center]                                                                          
+[.text-center]
 [[fig-45]]
 image::fig-45.jpg[Figure 45, 600, scaledwidth="100%"]
 
-==== Expérience 7
+==== Experiment 7
 
-Le restant du fond d'acajou est raboté sur la partie étroite du fond
-(<<fig-45,Figure 45>>)). La guitare pèse alors 1.765 grammes, avec un fond
-simple de palissandre des Indes de 280 grammes (avec ses trois barres d'acajou
-en plus).
+The remaining mahogany on the narrow part of the back was also planed down
+(<<fig-45,Figure 45>>). The guitar now weighed 1,765 grams, with a simple Indian rosewood
+back weighing 280 grams (plus its three mahogany braces).
 
-Le son devient encore plus rond mais plus épais et pâteux, moins clair, moins
-cristallin. Les basses sont sombres, la chanterelle inégale, les trois dernières
-notes toujours ternes.
+The sound became rounder but thicker and more sluggish, less clear, and less crystalline.
+The basses were dark, the first string inconsistent, and the last three notes remained dull.
 
-Le fond fonctionne encore mieux dans les fréquences graves et la sonorité s'est
-assombrie d'un degré de plus. Le manche est beaucoup plus libre de bouger sous
-l'action des cordes, l'épaisseur du fond étant plus fine au talon de ce dernier.
+The back resonated better at low frequencies, and the tone grew darker. The neck had more
+freedom to move under string tension, as the back was thinner at the heel.
 
-==== Expérience 8
+==== Experiment 8
 
-#Le fond normal de palissandre est enlevé avec précaution et les éclisses sont
-diminuées de moitié en hauteur#. Puis on ajuste à nouveau le fond retiré ; on
-le recolle et cela donne une guitare très plate de 6 cm d'épaisseur.
+#The regular rosewood back was carefully removed, and the sides were halved in height#.
+The removed back was then refitted, resulting in an ultra-flat guitar of 6 cm thickness.
 
-Le son est assez grêle dans l'ensemble, clair et mordant. Les basses sont
-maigres, sans profondeur (mais les trois dernières notes de la chanterelle
-sont meilleures) le manque de grave donne une sensation de sécheresse à
-l'écoute directe.
+The sound was somewhat thin overall, clear and biting. The basses were weak, lacking
+depth (but the last three high notes on the first string were better), with a dry
+listening experience due to the lack of bass.
 
-Le volume de la cavité, de la caisse sonore étant réduit de moitié, l'instrument
-a perdu une de ses composantes majeures et n'a plus de "coffre" Les
-fréquences propres des éclisses sont beaucoup plus élevées, elles vibrent
-naturellement plus haut en renforçant les suraigus.
+With the sound chamber volume halved, the instrument lost a major component and its
+"body." The natural frequencies of the sides were much higher, reinforcing the extreme
+highs.
 
-Le fond est assez passif dans les fréquences graves, l'action du talon de
-manche est minimale du fait de sa petitesse (le "levier" opère un mouvement
-très réduit).
+The back was rather passive at low frequencies, and the neck heel’s effect was minimal
+due to its small size (the "lever" action was very limited).
 
-Monsieur Leipp, chef tu laboratoire d'accoustique musicale de Paris VI va
-reprendre ces huit expériences dans le même ordre et va commentar les analyses
-qui ont été faites laboratoire, lors de la deuxième réunion sur la guitare et
-dans le bulletins, correspondant, le numéro 93.
+Mr. Leipp, head of the Musical Acoustics Laboratory at Paris VI, reviewed these eight
+experiments in the same order and provided commentary on the laboratory analyses during
+the second guitar conference, published in the corresponding bulletin, No. 93.
 

@@ -1,186 +1,179 @@
-== Notions de Flexionfootnote:[Voir cahier du Centre technique du bois: Calcul des tablettes et rayonnage (1968)]: et Contrôles Divers
+== Concepts of Flexionfootnote:[See the Technical Center for Wood: Calculation of
+Shelves and Racking (1968)]: and Various Checks
 
-Une planchette chargée en son milieu est soumise à une contrainte de
-compression pour la partie supérieure et de traction pour la partie inférieure.
-Elle est maximale dans les fibres de surface.
+A small board loaded at its center is subjected to compressive stress on the
+upper part and tensile stress on the lower part, with maximum impact on the
+surface fibers.
 
-On observe une fibre neutre au milieu.
+A neutral fiber is observed in the middle.
 
-- La déformation, la courbure des pièces peuvent se calculer.
-- On rencontre aussi la notion de Module d'élasticité ou module d'Young. Cela
-  représente simplement le degré de rigidité du bois qui déterminera un
-  fléchissement plus ou moins prononcé.
+- The deformation and curvature of the pieces can be calculated.
+- The concept of the Modulus of Elasticity, or Young's modulus, also arises.
+  This simply represents the wood's degree of rigidity, which determines
+  the extent of flexion.
 
-Dans la facture de guitare, il se trouve beaucoup de flexions possibles à
-enregistrer que l'on peut mesurer avec quelques appareils simples faits par
-l'expérimentateur.
+In guitar making, there are many possible flexions to record that can be
+measured using a few simple devices crafted by the experimenter.
 
 [upperroman]
-. *Flexion Longitudinale*: En prenant une des deux planchettes qui constituera
-la table, uniformément rabotée à 3 mm par exemple, on pourra la placer dans le
-dispositif (<<fig-30,Figure 30>>) de telle manière que l'endroit où se situera
-l'axe de la pliure corresponde exactement à l'axe du chevalet. En appliquant un
-poids de 500 gr environ, à un emplacement adéquat, on pourra mesurer la
-différence soit avec deux réglets métalliques (un de chaque côté) coulissant sur
-un aimant ou avec un comparateur monté sur un support.
+. *Longitudinal Flexion*: By taking one of the two boards that will form
+  the soundboard, uniformly planed to 3 mm, for example, it can be placed in
+  the device (<<fig-30,Figure 30>>) so that the point of the axis of bending
+  aligns precisely with the bridge axis. By applying a weight of about 500 g
+  in a suitable location, one can measure the difference using two metal
+  rulers (one on each side) sliding on a magnet, or with a dial indicator
+  mounted on a support.
 
 [.text-center]
 [[fig-30]]
 image::fig-30.jpg[Figure 30, 600, scaledwidth="100%"]
 
 +
-Cela peut s'appeler la #Flexion Longitudinale#.
+This is known as #Longitudinal Flexion#.
 
-. *Flexion Combinée*: Quand la table est jointée et collée, il est possible de
-prendre une mesure plus complète qui donne une indication réelle de sa souplesse
-ou de sa rigidité avec un appareil (<<fig-31,Figure 31>>) constitué de deux
-"moules extérieurs" en bois épais et indéformable dont l'intérieur est le tracé
-exact de la guitare.
+. *Combined Flexion*: When the soundboard is jointed and glued, a more
+  comprehensive measurement can be taken to provide a real indication of its
+  flexibility or rigidity with a device (<<fig-31,Figure 31>>) consisting of
+  two "outer molds" made of thick, non-deformable wood, with an interior
+  outline matching the guitar’s exact shape.
 
 [.text-center]
 [[fig-31]]
 image::fig-31.jpg[Figure 31, 600, scaledwidth="100%"]
 
 +
-En placant ces deux "moules" l'un sur l'autre et en les maintenant très serrés
-(avec la table su milieu) à l'aide de presses, il est possible, en appliquant un
-poids d'environ huit kilos `a l'endroit où sera le chevalet, de relever la
-flexion à l'aide d'une jauge de profoundeur à tige et à cadran. Cette jauge
-prendra appuir sur une passerelle entre les deux traverses de laquelle viendra
-s'insérer le poids de 8kg reposant sur un chevalet à l'endroit même qu'il
-occupera quand l'instrument sera terminé.
+By placing these two "molds" together and clamping them tightly (with the
+  soundboard in the middle) using presses, it is possible, by applying a
+  weight of about eight kilos at the bridge position, to measure the flexion
+  with a depth gauge equipped with a rod and dial. This gauge will rest on a
+  bridge between the two crossbars, onto which the 8 kg weight, resting on
+  the bridge, will be placed at the exact point it will occupy when the
+  instrument is complete.
 
 +
-Cette flexion donnera la résultante de la rigidité transversale et
-longitudinale ensmble, d'où son nom de #flexion combinée#.
+This flexion gives the resulting combined stiffness, both transverse and
+  longitudinal, hence the name #combined flexion#.
 
-. *Flexion de Barrettes*: Après le bois de table, vient le tour des différentes
-pièces du barrage (<<fig-32,Figure 32>>).
-
-+
-La flexion de chaque barrette (ou baguette) peut être prise très rapidement en
-la plaçant sur deux petits rouleaux distants de quarante centimètres environ. En
-y accrochant un poids de cinq cents grammes, on peut lire sur un "réglet adapté"
-la déformation maximale.
-
-. *La flexion du chevalet* (qui se trouve être un barrage transversal) est
-intéressante. On peut de cette faćon tester un lot de ces pièces en effectuant
-au hasard quelques mesures, ou bien les mesurer un par un systématiquement, en
-inmobilisant par une des pattes serrée dans un petit étau adapté, le chevalet,
-et en accrochant un poids de 1.000 grammes à l'extrémité de l'autre patte. Le
-déplacement se lit facilement avec un comparateur au dixième de millimètre.
+. *Bar Flexion*: After the soundboard wood, it's time to measure the various
+  bracing pieces (<<fig-32,Figure 32>>).
 
 +
-Pour les chevaletes on peut sussi chiffrer leur aptitute au gauchissement,
-notion qui présente un intérêt certain si l'on cherche à donner une indépendance
-entre le côté grave et aigu de la guitare. Un chevalet trop épais ou en bois
-très dur se meut d'un seul bloc, #sans souplesse#.
+The flexion of each bar (or brace) can be quickly measured by placing it on
+  two small rollers about forty centimeters apart. By hanging a weight of
+  five hundred grams, the maximum deformation can be read on a "custom ruler."
 
-. *Flexion du manche ébauché*: (<<fig-33,Figure 33>>) Cette importante mesure
-est à prendre quand un lot de manche est seulement ébauché, c'est-à-dire découpé
-avec tête et talon collés. En maintenant le manche par la languette du talon et
-en appliquant sur la palmette un poids de 10 kg, on peut relever la flexion avec
-un pied à coulisse adéquat.
-
-+
-Il est nécessaire de relever aussi le #poids# du manche brut et de se faire un
-système de référence avec tous les bois employés à cette fin.
-
-. *Flexion de la touche d'ébène*: Le procédé à employer est semblable au numéro
-un prévu pour les tables (flexion longitudinale). En immobilisant une extrémité
-de la touche, on pose un poids de 1.000 gr à un endroit repéré et la déformation
-peut se lire sur un réglet métallique, ou à l'aide du comparateur. Il est
-inutile de pŕeciser que toutes les pièces devront être préalablement rabottées à
-la même épaisseur.
-
-. *Stabilité dimensionnelle*: Sous l'effet de l'humidité en pays tropicaux ou en
-bord de mer certaine gruitare semble fonctionner "mollement". On peut soupćonner
-certains bois de table d'être particulièrement hygroscopiques. Il est notoire en
-effet que certains épicéa très dense et très résineux refusent 'imprégnation de
-produits de conservation par trempage et leur point de saturation est bien plus
-bas que 28 pour cent d'eau qui est la moyenne pour ce bois.
+. *Bridge Flexion*: This is a notable flexion, as the bridge is a transverse
+  brace. One can test a batch of these pieces by randomly measuring a few or
+  systematically measuring each one by securing one of the feet in a small
+  adapted vice and hanging a weight of 1,000 grams from the other foot. The
+  displacement can be easily read with a dial indicator to a tenth of a
+  millimeter.
 
 +
-Pour en avoir une idée précise il faut mesurer des éprouvettes avant et après
-les avoir tour à tour immergées dans un bac à eau pendant dix minutes puis
-éventuellement jusqu'à saturation complète. L'expérimentateur notera des
-variations allant du simple au triple et il accordera sa préférence à un bois
-peu sensible quand il construira pour le Japon ou le Brésil.
+For the bridges, one can also measure their susceptibility to warping, an
+  important characteristic when seeking to provide independence between the
+  bass and treble sides of the guitar. A bridge that is too thick or made of
+  very hard wood moves as a single unit, #without flexibility#.
+
+. *Rough Neck Flexion*: (<<fig-33,Figure 33>>) This essential measurement is
+  taken when a batch of necks is only roughly cut, meaning shaped with the
+  head and heel attached. By securing the neck by the heel tab and applying
+  a weight of 10 kg to the headstock, the flexion can be measured with an
+  appropriate caliper.
 
 +
-Le système est simple: une butée coulissant (à la manière d'une toise) vient
-s'appliquer sur l'échantillon. Un comparateur à dos aimanté est placé derrière
-cette butée.
+It is also necessary to record the #weight# of the raw neck and establish a
+  reference system with all the types of wood used for this purpose.
 
+. *Ebony Fingerboard Flexion*: The method is similar to the one described
+  for soundboards (longitudinal flexion). By securing one end of the
+  fingerboard and placing a weight of 1,000 g at a marked spot, the
+  deformation can be read on a metal ruler or with a dial indicator. All
+  pieces should be planed to the same thickness beforehand.
 
-. *Flexion du manche* cordes détendues et cordes tendues (<<fig-34,Figure 34>>).
-Quand l'instrument est terminé et avant le vernissage on peut contrôler le
-comportement du manche sur la caisse sonore en plaćant la guitare dans un
-dispositif où elle prend appui sur trois points situés à l'extrémité de la tête
-et de chaque côté de la plus grande largeur de caisse (le point de contact où la
-tête reposera devra être coulissant pour ne pas fausser la mesure). Il est
-facile alors de placer une charge de 10kg entre la 12ème et la 19ème frette et
-de mesurer le déplacement avec un pied à coulisse entre la 11ème et la 12ème
-frete.
+. *Dimensional Stability*: In humid tropical climates or coastal areas,
+  certain guitars seem to "soften" in performance. Some soundboard woods may
+  be particularly hygroscopic. It is well known that certain dense and
+  resinous spruce woods resist the impregnation of preservation products by
+  soaking, and their saturation point is well below the 28 percent average
+  moisture content for this wood.
+
++
+To gain an accurate understanding, samples should be measured before and
+  after being alternately immersed in water for ten minutes, or until fully
+  saturated if necessary. The experimenter may observe variations ranging
+  from minimal to triple, and will prefer wood that is less susceptible
+  when constructing for Japan or Brazil.
+
++
+The system is simple: a sliding stop (like a stadiometer) is applied to the
+  sample. A magnet-backed dial indicator is placed behind this stop.
+
+. *Neck Flexion* with strings slackened and strings tightened (<<fig-34,Figure 34>>).
+  Once the instrument is complete and before varnishing, the neck's behavior
+  on the soundbox can be checked by placing the guitar in a device where it
+  rests on three points located at the headstock’s end and on either side of
+  the widest part of the body (the headstock point should be movable to
+  avoid skewing the measurement). It is then easy to place a 10 kg weight
+  between the 12th and 19th frets and measure the displacement with a
+  caliper between the 11th and 12th frets.
 
 [.text-center]
 [[fig-34]]
 image::fig-34.jpg[Figure 34, 600, scaledwidth="100%"]
 
 +
-Lorsque la guitare sera complètement terminée on répètera l'opération avec les
-cordes tendues et on aura la surprise de constater que certaines présentent une
-flexion plus ample quand les cordes sont tendues, donnant à réfléchir sur les
-raisons.
+Once the guitar is fully finished, the process can be repeated with the
+  strings tightened, revealing that some instruments flex more when the
+  strings are tightened, raising questions as to why.
 
-. *Flexion de la table* cordes détendues et cordes tendues. Sans changer la
-guitare de place, on procède, après la mesure précédente, à celle concernant la
-flexibilité de la table quand la guitare est terminée. Le poids de 8 kg inséré
-entre les traverses de la passerelle viendra faire une pesée sur le chevalet
-posé temporairement avant le vernissage.
-
-+
-On répètera l'opération avec le chevaalet collé, puis avec les cordes tendues et
-le luthier pourra observer des mouvements plus importants de la table quand, sur
-certains instruments les cordes sont tendeus. En règle générale le toucher de la
-guitare sera de plus en plus facile si la flexion de la table dépasse 2
-millimètres et si celle du manche atteint également ce chiffre dans la flexion
-précédente (numéro IX de cette rubrique).
+. *Soundboard Flexion* with slackened and tightened strings. Without moving
+  the guitar, the previous measurement can be followed by testing the
+  flexibility of the soundboard once the guitar is finished. The 8 kg weight
+  inserted between the bridge crossbars will press on the bridge, which is
+  temporarily placed before varnishing.
 
 +
-Un luthier aviśe tirera bien des enseignements de ces différentes mesures et il
-devra peser en outre les tables brutes de découpage, puis terminées ainsi que
-les manches, fonds, touches, éclisses afin d'arriver à obtenir un instrument
-dont le poids est conforme à ses volontés et prévisions.
+The process is repeated with the glued bridge, then with the strings
+  tightened. The luthier can observe greater movement of the soundboard on
+  some instruments when the strings are tightened. Generally, the guitar's
+  playability improves if the soundboard flexion exceeds 2 millimeters and
+  if the neck flexion reaches the same measurement in the previous flexion
+  (number IX in this section).
 
 +
-On entend beaucoup moins l'attaque des sons, le passage du doigt sur la corde si
-l'instrument est lourd. Toutefois il y a une limite au delà de laquelle la
-sensibilité, la spontanéité, la #souplesse du son# se trouvent altérées (la
-marge est étroite).
+A skilled luthier will gain much insight from these various measurements,
+  weighing the raw cut soundboards, then the completed soundboards, necks,
+  backs, fingerboards, and sides to achieve an instrument with a weight that
+  aligns with their expectations and predictions.
 
 +
-Il nous apparaît pas du tout vain en cette fin du vingtième siècle de procéder à
-deux ou trois heures de mesures et de contrôle (puis de notations et de mise en
-fichier) sur un total d'une centaine d'heures de travail nécessaires pour
-réaliser une gritare de qualité.
+Heavier instruments produce less string attack and finger noise, though
+  there is a limit beyond which the sensitivity, spontaneity, and #sound
+  flexibility# are compromised (the margin is narrow).
 
 +
-Pour le luthier d'Art l'approache fine et la connaissance de ces éléments
-mécaniques détermineront une souplesse et une variéte plus grande de sa
-contruction et une arme contre les "facteurs industriels de guitare" que tous
-changements et modifications contrarient.
+At the end of the twentieth century, it seems worthwhile to spend two to
+  three hours on measurements and checks (followed by recording and
+  archiving) out of the hundred hours of work required to make a quality
+  guitar.
 
 +
-Il n'est pas interdit de penser que les grands maîtres du passé avait déjà mis
-au point un système de références personnelles qui leur avait permis secrètement
-d'aller plus loin avec des bases plus sûres. (Nous souhaitons personnellement
-que ces procédes de contrôle constituent l'apport technique le plus intérresant
-que nous puissions donner dans le cadre de cet essai).
+For the Art luthier, this precise approach and understanding of mechanical
+  elements will lead to greater flexibility and variety in their
+  construction, providing an advantage over "industrial guitar makers" who
+  are hindered by changes and adjustments.
 
 +
-Une remarque finale est à inscrire en gros caractères :
+It is not unreasonable to think that the great masters of the past had
+  already developed personal reference systems that allowed them, secretly,
+  to achieve more with a surer foundation. (We personally hope that these
+  control methods constitute the most interesting technical contribution we
+  can offer in this essay).
 
 +
-**II est impossible de faire deux instruments semblables sans utiliser les mêmes bois.**
+A final note in bold letters:
+
++
+**It is impossible to make two identical instruments without using the same wood.**
 
