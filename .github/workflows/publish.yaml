@@ -1,0 +1,52 @@
+name: Build and Release Artifacts
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - 'daniel-friedrich/laguitare/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Ruby
+        uses: ruby/setup-ruby@v1
+        with:
+          ruby-version: '3.0'
+          bundler-cache: true
+
+      - name: Install Asciidoctor and dependencies
+        run: |
+          gem install asciidoctor asciidoctor-pdf asciidoctor-epub3
+
+      - name: Build all formats
+        run: make all
+        working-directory: daniel-friedrich/laguitare/
+
+      - name: Create GitHub Release
+        id: create_release
+        uses: actions/create-release@v1
+        with:
+          tag_name: latest
+          release_name: "Documentation Build"
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Upload all documentation files
+        uses: actions/upload-release-asset@v1
+        with:
+          upload_url: ${{ steps.create_release.outputs.upload_url }}
+          asset_path: daniel-friedrich/laguitare/build/*
+          asset_name: "${{ github.event.repository.name }}_assets"
+          asset_content_type: application/octet-stream
